@@ -1,0 +1,721 @@
+{
+  "americas": {
+    "holiday-inn-express": {
+      "name": "Holiday Inn Express",
+      "pictures": {
+        "logo": "./img/icons/holiday-inn-express.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "avid-hotels": {
+      "name": "Avid Hotels",
+      "pictures": {
+        "logo": "./img/icons/avid-hotels.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "garner": {
+      "name": "Garner",
+      "pictures": {
+        "logo": "./img/icons/garner.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "atwell-suites": {
+      "name": "Atwell Suites",
+      "pictures": {
+        "logo": "./img/icons/atwell-suites.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "fand-b-director": {
+          "name": "Fand B Director"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "food-and-beverage": {
+          "name": "Food And Beverage"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "staybridge-suites": {
+      "name": "Staybridge Suites",
+      "pictures": {
+        "logo": "./img/icons/staybridge-suites.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        }
+      }
+    },
+    "candlewood-suites": {
+      "name": "Candlewood Suites",
+      "pictures": {
+        "logo": "./img/icons/candlewood-suites.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "holiday-inn": {
+      "name": "Holiday Inn",
+      "pictures": {
+        "logo": "./img/icons/holiday-inn.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "food-and-beverage-director": {
+          "name": "Food And Beverage Director"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "even-hotels": {
+      "name": "Even Hotels",
+      "pictures": {
+        "logo": "./img/icons/even-hotels.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "food-and-beverage-manager-1": {
+          "name": "Food And Beverage Manager 1"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "food-and-beverage-manager-2": {
+          "name": "Food And Beverage Manager 2"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "voco-hotels": {
+      "name": "Voco Hotels",
+      "pictures": {
+        "logo": "./img/icons/voco-hotels.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "food-and-beverage-director": {
+          "name": "Food And Beverage Director"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "food-and-beverage": {
+          "name": "Food And Beverage"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "crowne-plaza": {
+      "name": "Crowne Plaza",
+      "pictures": {
+        "logo": "./img/icons/crowne-plaza.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "food-and-beverage-director": {
+          "name": "Food And Beverage Director"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "food-and-beverage": {
+          "name": "Food And Beverage"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "hotel-indigo": {
+      "name": "Hotel Indigo",
+      "pictures": {
+        "logo": "./img/icons/hotel-indigo.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "food-and-beverage-director": {
+          "name": "Food And Beverage Director"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "food-and-beverage": {
+          "name": "Food And Beverage"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "vignette": {
+      "name": "Vignette",
+      "pictures": {
+        "logo": "./img/icons/vignette.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "food-and-beverage-director": {
+          "name": "Food And Beverage Director"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "food-and-beverage": {
+          "name": "Food And Beverage"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "intercontinental": {
+      "name": "Intercontinental",
+      "pictures": {
+        "logo": "./img/icons/intercontinental.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "food-and-beverage-director": {
+          "name": "Food And Beverage Director"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "food-and-beverage": {
+          "name": "Food And Beverage"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "regent": {
+      "name": "Regent",
+      "pictures": {
+        "logo": "./img/icons/regent.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "food-and-beverage-director": {
+          "name": "Food And Beverage Director"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "food-and-beverage": {
+          "name": "Food And Beverage"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "special-project": {
+      "name": "Special Project",
+      "pictures": {
+        "logo": "./img/icons/special-project.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "front-office-manager": {
+          "name": "Front Office Manager"
+        },
+        "revenue-manager": {
+          "name": "Revenue Manager"
+        },
+        "director-of-sales": {
+          "name": "Director Of Sales"
+        },
+        "executive-housekeeper": {
+          "name": "Executive Housekeeper"
+        },
+        "chief-engineer": {
+          "name": "Chief Engineer"
+        },
+        "hotel-experience-champion": {
+          "name": "Hotel Experience Champion"
+        },
+        "food-and-beverage-director": {
+          "name": "Food And Beverage Director"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "food-and-beverage": {
+          "name": "Food And Beverage"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    }
+  }
+}
