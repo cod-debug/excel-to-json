@@ -77,28 +77,12 @@
       "course-id": "IHG2428898"
     },
     {
-      "title": "IHG Business Rewards Training",
-      "timeframe": "",
-      "notes": "",
-      "sorting": 11,
-      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D1963%26UserMode%3D0",
-      "course-id": "IHG0052543"
-    },
-    {
-      "title": "LoyaltyConnect",
-      "timeframe": "",
-      "notes": "",
-      "sorting": 12,
-      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D76%26UserMode%3D0",
-      "course-id": "IHG0049654"
-    },
-    {
-      "title": "IHG Way of Clean 5-S Cleaning Program for Non-Housekeeping colleagues",
+      "title": "IHG Way of Clean 5-S Cleaning Program",
       "timeframe": "",
       "notes": "Group training possible",
-      "sorting": 13,
-      "link": "https://mylearning.sumtotal.host/rcore/authentication/login-callback?code=53876874F3E6CD0502CF2BEA45C37819135BE6F6DE90292DA1D41219B4037C47&scope=openid%20profile%20allapis%20all&state=f3ba2f03451249cc8c3ce03db4806e3c",
-      "course-id": "IHG1227263"
+      "sorting": 11,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&amp;url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D280596%26UserMode%3D0",
+      "course-id": "IHG7376524"
     },
     {
       "title": "Kimpton Inner Circle",

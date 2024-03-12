@@ -23,6 +23,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -44,6 +45,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -65,6 +67,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -86,6 +89,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -107,6 +111,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -128,6 +133,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -149,6 +155,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -170,6 +177,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -191,6 +199,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -212,6 +221,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -233,6 +243,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -254,6 +265,7 @@ const brand_list = [
             'general-manager': '',
             'sales-team-leader': '',
             'revenue-team-leader': '',
+            'front-office-team-leader': '',
             'house-keeping-team-leader': '',
             'food-and-beverage-team-leader': '',
             'engineering-team-leader': '',
@@ -417,6 +429,7 @@ function generateJson(data){
                 
                 
                     if(!isNaN(rowData[role_id]) && rowData[role_id] != ''){
+                        console.log(rowData[role_id]);
                         // Add the restructured data to the array
                         extractedData.push(restructuredData);
                     }

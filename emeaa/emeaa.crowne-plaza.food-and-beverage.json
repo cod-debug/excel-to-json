@@ -56,7 +56,7 @@
       "title": "IHG Problem Handling v2",
       "timeframe": "",
       "notes": "Group training possible",
-      "sorting": 6,
+      "sorting": 7,
       "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D21837%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dproblem%25252520handling%2526startRow%253D0%26SearchCallerID%3D2",
       "course-id": "IHG056045"
     },
@@ -64,7 +64,7 @@
       "title": "The Value of Loyalty",
       "timeframe": "",
       "notes": "",
-      "sorting": 7,
+      "sorting": 8,
       "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240856%26UserMode%3D0",
       "course-id": "IHG5072070"
     },
@@ -72,7 +72,7 @@
       "title": "IHG One Rewards Program Overview",
       "timeframe": "",
       "notes": "",
-      "sorting": 8,
+      "sorting": 9,
       "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240857%26UserMode%3D0",
       "course-id": "IHG8755255"
     },
@@ -80,7 +80,7 @@
       "title": "Member Recognition",
       "timeframe": "",
       "notes": "",
-      "sorting": 9,
+      "sorting": 10,
       "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240854%26UserMode%3D0",
       "course-id": "IHG1984349"
     },
@@ -88,7 +88,7 @@
       "title": "The Value of Enrollments",
       "timeframe": "",
       "notes": "",
-      "sorting": 10,
+      "sorting": 11,
       "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240855%26UserMode%3D0",
       "course-id": "IHG2428898"
     },
@@ -96,9 +96,41 @@
       "title": "IHG Way of Clean 5-S Cleaning Program",
       "timeframe": "",
       "notes": "Group training possible",
-      "sorting": 11,
+      "sorting": 12,
       "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&amp;url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D280596%26UserMode%3D0",
       "course-id": "IHG7376524"
+    },
+    {
+      "title": "Breakfast Guest Journey - Upscale F&B Learning Series",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 6,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D29123%26UserMode%3D0",
+      "course-id": "IHG5956029"
+    },
+    {
+      "title": "Tableside Etiquette - Upscale F&B Learning Series",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 6,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D29120%26UserMode%3D0",
+      "course-id": "IHG6423633"
+    },
+    {
+      "title": "Daily Briefing - Upscale F&B Learning Series",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 6,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D51705%26UserMode%3D0",
+      "course-id": "IHG6344076"
+    },
+    {
+      "title": "Back of House Success - Upscale F&B Learning Series",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 6,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D29121%26UserMode%3D0",
+      "course-id": "IHG6021898"
     }
   ]
 }

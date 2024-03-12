@@ -117,52 +117,20 @@
       "course-id": "IHG0052543"
     },
     {
-      "title": "LoyaltyConnect",
-      "timeframe": "",
-      "notes": "",
-      "sorting": 16,
-      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D76%26UserMode%3D0",
-      "course-id": "IHG0049654"
-    },
-    {
-      "title": "IHG Way of Clean 5-S Cleaning Program for Non-Housekeeping colleagues",
+      "title": "IHG Way of Clean 5-S Cleaning Program",
       "timeframe": "",
       "notes": "Group training possible",
-      "sorting": 17,
-      "link": "https://mylearning.sumtotal.host/rcore/authentication/login-callback?code=53876874F3E6CD0502CF2BEA45C37819135BE6F6DE90292DA1D41219B4037C47&scope=openid%20profile%20allapis%20all&state=f3ba2f03451249cc8c3ce03db4806e3c",
-      "course-id": "IHG1227263"
+      "sorting": 16,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&amp;url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D280596%26UserMode%3D0",
+      "course-id": "IHG7376524"
     },
     {
       "title": "IHG Way of Clean 5-S Cleaning Program - Introduction for Leadership",
       "timeframe": "",
       "notes": "",
-      "sorting": 18,
+      "sorting": 17,
       "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?relyingParty=LM&url=app%2fmanagement%2fLMS_ActDetails.aspx%3fActivityId%3d6077%26UserMode%3d0",
       "course-id": "IHG0046843"
-    },
-    {
-      "title": "Getting to Know IHG Concerto",
-      "timeframe": "",
-      "notes": "",
-      "sorting": 19,
-      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D52090%26UserMode%3D0",
-      "course-id": "IHG0049491"
-    },
-    {
-      "title": "IHG Concerto Homepage overview",
-      "timeframe": "",
-      "notes": "",
-      "sorting": 20,
-      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D68%26UserMode%3D0",
-      "course-id": "IHG0052563"
-    },
-    {
-      "title": "IHG Concerto: Hotel Content Overview",
-      "timeframe": "",
-      "notes": "",
-      "sorting": 21,
-      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D67%26UserMode%3D0",
-      "course-id": "IHG0060624"
     },
     {
       "title": "InterContinental Ambassador Training",
