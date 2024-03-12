@@ -1,0 +1,168 @@
+{
+  "atwell-suites": {
+    "name": "Atwell Suites",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "Leading the Brand Experience for New Hotels Part 1",
+      "timeframe": "Pre Opening",
+      "notes": "Opening Manager will introduce for scheduling",
+      "sorting": 1,
+      "link": "",
+      "course-id": "Invitation "
+    },
+    {
+      "title": "Welcome to IHG",
+      "timeframe": "0-30 days",
+      "notes": "Classroom style training permitted",
+      "sorting": 2,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10770%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dwelcome%25252520to%25252520ihg%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG058044"
+    },
+    {
+      "title": "Preventing Human Trafficking",
+      "timeframe": "within 14 days;",
+      "notes": "Classroom style training permitted; Recertification Course ID IHG0059603R",
+      "sorting": 3,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D86%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dhuman%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0057043"
+    },
+    {
+      "title": "Health & Safety, Security and Emergency Procedures",
+      "timeframe": "on Day 1",
+      "notes": "Documented evidence of completed training must be maintained; not IHG specific courses",
+      "sorting": 4,
+      "link": "",
+      "course-id": "See Notes"
+    },
+    {
+      "title": "Employee Safety Device Training",
+      "timeframe": "within 14 days",
+      "notes": "All new colleagues, including contract and temporary. (OBSM 957289)  Classroom style training permitted",
+      "sorting": 5,
+      "link": "",
+      "course-id": "See Notes"
+    },
+    {
+      "title": "True Hospitality Service Skills",
+      "timeframe": "0-30 days",
+      "notes": "Classroom style training permitted",
+      "sorting": 6,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10700%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dtrue%25252520hospitality%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051263"
+    },
+    {
+      "title": "IHG Problem Handling v2",
+      "timeframe": "0-30 days",
+      "notes": "Classroom style training permitted",
+      "sorting": 7,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D21837%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dproblem%25252520handling%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG056045"
+    },
+    {
+      "title": "Brand Orientation",
+      "timeframe": "0-30 days",
+      "notes": "Classroom style training permitted",
+      "sorting": 8,
+      "link": "",
+      "course-id": "Live"
+    },
+    {
+      "title": "Brand Service",
+      "timeframe": "0-30 days",
+      "notes": "Classroom style training permitted",
+      "sorting": 9,
+      "link": "",
+      "course-id": "Live"
+    },
+    {
+      "title": "IHG Culture of Clean Implementation",
+      "timeframe": "within 14 days",
+      "notes": "",
+      "sorting": 14,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D3388%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dculture%25252520of%25252520clean%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0060523"
+    },
+    {
+      "title": "Leading and Sustaining your Service Culture",
+      "timeframe": "within 60 days",
+      "notes": "",
+      "sorting": 15,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D564%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dleading%25252520and%25252520sustaining%25252520your%25252520service%25252520culture%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0056403"
+    },
+    {
+      "title": "The Value of Loyalty",
+      "timeframe": "Pre Opening",
+      "notes": "",
+      "sorting": 16,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D24934%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dvalue%25252520of%25252520loyalty%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "Link"
+    },
+    {
+      "title": "IHG One Rewards Program Overview",
+      "timeframe": "Pre Opening",
+      "notes": "",
+      "sorting": 17,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D25192%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dihg%25252520one%25252520rewards%25252520program%25252520overview%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "Link"
+    },
+    {
+      "title": "Leading the Brand Experience for New Hotels Part 2",
+      "timeframe": "See Notes",
+      "notes": "Scheduled after Part 1 is completed",
+      "sorting": 20,
+      "link": "",
+      "course-id": "Invitation"
+    },
+    {
+      "title": "IHG Way of Clean 5-S Cleaning Program",
+      "timeframe": "within 14 days",
+      "notes": "Recertification Course ID IHG0055343-v2023",
+      "sorting": 10,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10702%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dway%25252520of%25252520clean%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051783"
+    },
+    {
+      "title": "IHG Way of Clean Bedding and Duvet",
+      "timeframe": "Pre Opening",
+      "notes": "Group setting acceptable",
+      "sorting": 11,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D2856%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dihg%25252520way%25252520of%25252520clean%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "Link"
+    },
+    {
+      "title": "Duvet Training Materials and Care Guides",
+      "timeframe": "",
+      "notes": "Information Booklet",
+      "sorting": 12,
+      "link": "https://myfederate.ihg.com/idp/startSSO.ping?PartnerSpId=https%3A%2F%2Fmyfederate.ihg.com&amp;TargetResource=HTTPS%3A%2F%2Fme2.ihgmerlin.com%2Fweb%2Finit-winning-in-sleep%2Farticle%3Fid%3D98989978",
+      "course-id": "Link"
+    },
+    {
+      "title": "IHG Way of Clean Daily Room Refresh",
+      "timeframe": "within 14 days",
+      "notes": "Classroom style training is permitted",
+      "sorting": 13,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D3527%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Droom%25252520refresh%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0065423"
+    },
+    {
+      "title": "IHG Way of Clean 5-S Cleaning Program - Introduction for Leadership",
+      "timeframe": "within 14 days ",
+      "notes": "",
+      "sorting": 18,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D6077%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dihg%25252520way%25252520of%25252520clean%252525205-s%25252520cleaning%25252520program%25252520-%25252520introduction%25252520for%25252520leadership%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0046843"
+    },
+    {
+      "title": "IHG Way of Clean 5-S Process Leadership Certification",
+      "timeframe": "within 90 days",
+      "notes": "",
+      "sorting": 19,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D16161%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dleadership%25252520certification%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0046182"
+    }
+  ]
+}

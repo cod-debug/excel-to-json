@@ -1,0 +1,128 @@
+{
+  "even-hotels": {
+    "name": "Even Hotels",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "Welcome to IHG",
+      "timeframe": "Pre opening",
+      "notes": "Group training permitted ",
+      "sorting": 1,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10770%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dwelcome%25252520to%25252520ihg%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG058044"
+    },
+    {
+      "title": "Preventing Human Trafficking",
+      "timeframe": "Pre opening",
+      "notes": "Group training permitted ",
+      "sorting": 2,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D86%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dhuman%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0057043"
+    },
+    {
+      "title": "Health & Safety, Security and Emergency Procedures",
+      "timeframe": "Pre opening",
+      "notes": "Group training permitted ",
+      "sorting": 3,
+      "link": "https://me2.ihgmerlin.com/web/brand-standards/hotel/search-standards",
+      "course-id": "OBSM 1131432"
+    },
+    {
+      "title": "Employee Safety Device Training",
+      "timeframe": "Pre opening",
+      "notes": "Group training permitted ",
+      "sorting": 4,
+      "link": "https://me2.ihgmerlin.com/web/brand-standards/hotel/search-standards",
+      "course-id": " (OBSM 957289)  "
+    },
+    {
+      "title": "First Aid /  CPR Certification",
+      "timeframe": "Pre opening",
+      "notes": "Certified through a 3rd Party",
+      "sorting": 5,
+      "link": "https://me2.ihgmerlin.com/web/brand-standards/hotel/search-standards",
+      "course-id": "Brand Standard"
+    },
+    {
+      "title": "True Hospitality Service Skills",
+      "timeframe": "Pre opening",
+      "notes": "Group training permitted ",
+      "sorting": 6,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10700%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dtrue%25252520hospitality%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051263"
+    },
+    {
+      "title": "IHG Problem Handling v2",
+      "timeframe": "Pre opening",
+      "notes": "Group training permitted ",
+      "sorting": 7,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D21837%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dproblem%25252520handling%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG056045"
+    },
+    {
+      "title": "EVEN Hotels Brand Orientation",
+      "timeframe": "Pre opening",
+      "notes": "Group training permitted ",
+      "sorting": 8,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D2%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Deven%25252520brand%25252520orientation%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0045902"
+    },
+    {
+      "title": "EVEN Hotels Brand Service Training ",
+      "timeframe": "Pre opening",
+      "notes": "",
+      "sorting": 9,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D237982%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Deven%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": " IHG7942569"
+    },
+    {
+      "title": "IHG One Rewards Program Overview",
+      "timeframe": "Pre opening",
+      "notes": "",
+      "sorting": 14,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D240857%26UserMode%3D0",
+      "course-id": " IHG8755255"
+    },
+    {
+      "title": "The Value of Loyalty",
+      "timeframe": "Pre opening",
+      "notes": "",
+      "sorting": 15,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D240856%26UserMode%3D0",
+      "course-id": "IHG5072070"
+    },
+    {
+      "title": "IHG Way of Clean 5-S Cleaning Program",
+      "timeframe": "Pre opening",
+      "notes": "Group training permitted ",
+      "sorting": 10,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D280596%26UserMode%3D0",
+      "course-id": "IHG7376524"
+    },
+    {
+      "title": "IHG Way of Clean Bedding and Duvet",
+      "timeframe": "Pre opening",
+      "notes": "Group training permitted ",
+      "sorting": 11,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D2856%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dihg%25252520way%25252520of%25252520clean%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0055463"
+    },
+    {
+      "title": "Duvet Training Materials and Care Guides",
+      "timeframe": "Pre opening",
+      "notes": "Group training permitted ",
+      "sorting": 12,
+      "link": "https://myfederate.ihg.com/idp/startSSO.ping?PartnerSpId=https%3A%2F%2Fmyfederate.ihg.com&TargetResource=HTTPS%3A%2F%2Fme2.ihgmerlin.com%2Fweb%2Finit-winning-in-sleep%2Farticle%3Fid%3D98989978",
+      "course-id": "Link to Guide"
+    },
+    {
+      "title": "IHG Way of Clean Daily Room Refresh",
+      "timeframe": "Pre opening",
+      "notes": "Group training permitted ",
+      "sorting": 13,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D3527%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Droom%25252520refresh%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0065423"
+    }
+  ]
+}

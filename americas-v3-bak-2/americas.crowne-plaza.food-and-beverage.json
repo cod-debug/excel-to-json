@@ -1,0 +1,144 @@
+{
+  "crowne-plaza": {
+    "name": "Crowne Plaza",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "Welcome to IHG",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 1,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10770%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dwelcome%25252520to%25252520ihg%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG058044"
+    },
+    {
+      "title": "Preventing Human Trafficking",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 2,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D86%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dhuman%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0057043"
+    },
+    {
+      "title": "Health & Safety, Security and Emergency Procedures",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 3,
+      "link": "https://me2.ihgmerlin.com/web/brand-standards/hotel/search-standards",
+      "course-id": "OBSM 1131432"
+    },
+    {
+      "title": "Employee Safety Device Training",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 4,
+      "link": "https://me2.ihgmerlin.com/web/brand-standards/hotel/search-standards",
+      "course-id": " (OBSM 957289)  "
+    },
+    {
+      "title": "First Aid /  CPR Certification",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 5,
+      "link": "https://me2.ihgmerlin.com/web/brand-standards/hotel/search-standards",
+      "course-id": "Brand Standard"
+    },
+    {
+      "title": "True Hospitality Service Skills",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 6,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10700%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dtrue%25252520hospitality%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051263"
+    },
+    {
+      "title": "IHG Problem Handling v2",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 7,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D21837%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dproblem%25252520handling%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG056045"
+    },
+    {
+      "title": "Crowne Plaza Brand Orientation",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 8,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10699%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dcrowne%25252520plaza%25252520brand%25252520orientation%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051234"
+    },
+    {
+      "title": "Crowne Plaza Dare to Connect Brand Experience Training_AMER",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 9,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10769%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dcrowne%25252520plaza%25252520dare%25252520to%25252520connect%25252520brand%25252520experience%25252520training_amer%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG057984"
+    },
+    {
+      "title": "IHG Way of Clean for Non-Housekeeping Colleagues",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 10,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D310962%26UserMode%3D0",
+      "course-id": "IHG1227263"
+    },
+    {
+      "title": "IHG One Rewards Program Overview",
+      "timeframe": "Pre Opening",
+      "notes": "",
+      "sorting": 11,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D240857%26UserMode%3D0",
+      "course-id": " IHG8755255"
+    },
+    {
+      "title": "The Value of Loyalty",
+      "timeframe": "Pre Opening",
+      "notes": "",
+      "sorting": 12,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D240856%26UserMode%3D0",
+      "course-id": "IHG5072070"
+    },
+    {
+      "title": "Crowne Plaza IGNITE Menu Program Video - Service",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 13,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D5810%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dcrowne%25252520plaza%25252520ignite%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG57306"
+    },
+    {
+      "title": "Crowne Plaza IGNITE Menu Program Video - Recipes",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 14,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D5814%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dcrowne%25252520plaza%25252520ignite%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG057307-EN"
+    },
+    {
+      "title": "Crowne Plaza Power Up Morning Breakfast Program",
+      "timeframe": "Pre Opening",
+      "notes": "Group Training Permitted",
+      "sorting": 15,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10768%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dcrowne%25252520plaza%25252520power%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG057363"
+    },
+    {
+      "title": "Crowne Plaza Power Up Morning Instructor Led",
+      "timeframe": "Pre Opening",
+      "notes": "",
+      "sorting": 16,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D5280%26UserMode%3D0",
+      "course-id": "IHG0046190"
+    },
+    {
+      "title": "Food and Beverage Resources",
+      "timeframe": "Pre Opening",
+      "notes": "",
+      "sorting": 17,
+      "link": "https://ihgfbamericas.com/wp-login.php",
+      "course-id": "IHG Food and Beverage Americas Reource Site"
+    }
+  ]
+}

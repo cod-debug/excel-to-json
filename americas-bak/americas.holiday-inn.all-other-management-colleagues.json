@@ -1,0 +1,104 @@
+{
+  "holiday-inn": {
+    "name": "Holiday Inn",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "Access to Oracle University",
+      "timeframe": "Pre Opening",
+      "notes": "Registration and modules within",
+      "sorting": 1,
+      "link": "",
+      "course-id": "IHG006244"
+    },
+    {
+      "title": "Welcome to IHG",
+      "timeframe": "Pre Opening",
+      "notes": "Classroom style training permitted",
+      "sorting": 2,
+      "link": "",
+      "course-id": "IHG058044"
+    },
+    {
+      "title": "True Hospitality Service Skills",
+      "timeframe": "within 30 days",
+      "notes": "Classroom style training permitted",
+      "sorting": 3,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10770%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dwelcome%25252520to%25252520ihg%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051263"
+    },
+    {
+      "title": "Preventing Human Trafficking",
+      "timeframe": "within 14 days;",
+      "notes": "Classroom style training permitted; Recertification Course ID IHG0059603R",
+      "sorting": 4,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10700%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dtrue%25252520hospitality%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0057043"
+    },
+    {
+      "title": "Health & Safety, Security and Emergency Procedures",
+      "timeframe": "Pre Opening",
+      "notes": "Documented evidence of completed training must be maintained; not IHG specific courses",
+      "sorting": 5,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D86%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dhuman%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "See Notes"
+    },
+    {
+      "title": "IHG Way of Clean for Non-Housekeeping Colleagues",
+      "timeframe": "within 14 days",
+      "notes": "Classroom style training permitted",
+      "sorting": 6,
+      "link": "",
+      "course-id": "IHG0060643"
+    },
+    {
+      "title": "Holiday Inn - Making Guests Smile Brand Orientation",
+      "timeframe": "within 30 days",
+      "notes": "Classroom style training permitted",
+      "sorting": 7,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D3013%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dway%25252520of%25252520clean%25252520non%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG058403"
+    },
+    {
+      "title": "Holiday Inn - Making Guests Smile Brand Experience Training",
+      "timeframe": "within 30 days",
+      "notes": "Classroom style training permitted",
+      "sorting": 8,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10775%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dholiday%25252520inn%25252520-%25252520making%25252520guests%25252520smile%25252520brand%25252520orientation%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG058423"
+    },
+    {
+      "title": "IHG Problem Handling v2",
+      "timeframe": "within 30 days",
+      "notes": "Classroom style training permitted",
+      "sorting": 9,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D3388%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dculture%25252520of%25252520clean%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG056045"
+    },
+    {
+      "title": "Introduction to Information Security",
+      "timeframe": "within 14 days; annually",
+      "notes": "Specific courses listed are recommended;",
+      "sorting": 10,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D564%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dleading%25252520and%25252520sustaining%25252520your%25252520service%25252520culture%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0047625"
+    },
+    {
+      "title": "Handling Credit Cards Securely",
+      "timeframe": "within 14 days;",
+      "notes": "colleagues must participate in training on keeping such information secure",
+      "sorting": 11,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D6447%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dintroduction%25252520to%25252520information%25252520security%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0047626"
+    },
+    {
+      "title": "Leading the Brand Experience for New Hotels Part 2",
+      "timeframe": "See Notes",
+      "notes": "Scheduled after Part 1 is completed",
+      "sorting": 12,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&amp;relyingParty=LM&amp;url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D5316%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dway%25252520of%25252520sales%25252520abridged%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "Invitation"
+    }
+  ]
+}
