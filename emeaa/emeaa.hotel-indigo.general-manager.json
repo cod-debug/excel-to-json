@@ -1,0 +1,304 @@
+{
+  "hotel-indigo": {
+    "name": "Hotel Indigo",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "True Hospitality Service Skills",
+      "timeframe": "",
+      "notes": "Group training possible",
+      "sorting": 1,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10700%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dtrue%25252520hospitality%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051263"
+    },
+    {
+      "title": "Hotel Indigo Brand Orientation",
+      "timeframe": "",
+      "notes": "Group training possible",
+      "sorting": 2,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D14835%26UserMode%3D0",
+      "course-id": "IHG0064483"
+    },
+    {
+      "title": "Hotel Indigo Brand Experience Training",
+      "timeframe": "",
+      "notes": "Group training possible",
+      "sorting": 3,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D17473%26UserMode%3D0",
+      "course-id": "IHG0064463"
+    },
+    {
+      "title": "Responsible Business Catalogue - follow guidance on brand-standard related trainings",
+      "timeframe": "",
+      "notes": "For franchised hotels only",
+      "sorting": 4,
+      "link": "https://me2.ihgmerlin.com/documents/344888240/0/Responsible+Business+-+Franchised+Nov+-+Sumtotal+link.pdf/75e0cfa4-d19e-ee5b-d1aa-7cda5250e60b?t=1668006187121;download=false",
+      "course-id": "https://me2.ihgmerlin.com/documents/344888240/0/Responsible+Business+-+Franchised+Nov+-+Sumtotal+link.pdf/75e0cfa4-d19e-ee5b-d1aa-7cda5250e60b?t=1668006187121;download=false"
+    },
+    {
+      "title": "Responsible Business Catalogue - follow guidance on brand-standard related trainings",
+      "timeframe": "",
+      "notes": "For managed hotels only",
+      "sorting": 5,
+      "link": "https://ihg.sharepoint.com/sites/ResponsibleBusiness/SiteAssets/SitePages/ResponsibleBusiness/Responsible-Business-Training---Training-available-to-Managed-Hotels-2022-Aug.pdf",
+      "course-id": "https://ihg.sharepoint.com/sites/ResponsibleBusiness/SiteAssets/SitePages/ResponsibleBusiness/Responsible-Business-Training---Training-available-to-Managed-Hotels-2022-Aug.pdf"
+    },
+    {
+      "title": "Hotel Experience Champion",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 6,
+      "link": "https://me2.ihgmerlin.com/documents/137310422/08e55ca6-cb34-4610-856f-140e2934bb74",
+      "course-id": "https://me2.ihgmerlin.com/documents/137310422/08e55ca6-cb34-4610-856f-140e2934bb74"
+    },
+    {
+      "title": "Leading and Sustaining your Service Culture",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 7,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D564%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dleading%25252520and%25252520sustaining%25252520your%25252520service%25252520culture%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0056403"
+    },
+    {
+      "title": "Explore Brand Sustainment Tools and apply accordingly",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 8,
+      "link": "https://mylearning.sumtotal.host/rcore/c/dash/www/google.com/initial?relyingParty=ELIXHRUI&nodeKey=dashboard_201_Brand_Training_Sustainment&nodeUrl=%2Fdash%2Fwww%2Fgoogle.com%2Finitial",
+      "course-id": "https://mylearning.sumtotal.host/rcore/c/dash/www/google.com/initial?relyingParty=ELIXHRUI&nodeKey=dashboard_201_Brand_Training_Sustainment&nodeUrl=%2Fdash%2Fwww%2Fgoogle.com%2Finitial"
+    },
+    {
+      "title": "IHG Problem Handling v2",
+      "timeframe": "",
+      "notes": "Group training possible",
+      "sorting": 9,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D21837%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dproblem%25252520handling%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG056045"
+    },
+    {
+      "title": "The Value of Loyalty",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 10,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240856%26UserMode%3D0",
+      "course-id": "IHG5072070"
+    },
+    {
+      "title": "Leading Loyalty",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 11,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D240860%26UserMode%3D0",
+      "course-id": "IHG6112495"
+    },
+    {
+      "title": "IHG One Rewards Program Overview",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 12,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240857%26UserMode%3D0",
+      "course-id": "IHG8755255"
+    },
+    {
+      "title": "Member Recognition",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 13,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240854%26UserMode%3D0",
+      "course-id": "IHG1984349"
+    },
+    {
+      "title": "The Value of Enrollments",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 14,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240855%26UserMode%3D0",
+      "course-id": "IHG2428898"
+    },
+    {
+      "title": "IHG Business Rewards Training",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 15,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D1963%26UserMode%3D0",
+      "course-id": "IHG0052543"
+    },
+    {
+      "title": "LoyaltyConnect",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 16,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D76%26UserMode%3D0",
+      "course-id": "IHG0049654"
+    },
+    {
+      "title": "IHG Way of Clean 5-S Cleaning Program for Non-Housekeeping colleagues",
+      "timeframe": "",
+      "notes": "Group training possible",
+      "sorting": 17,
+      "link": "https://mylearning.sumtotal.host/rcore/authentication/login-callback?code=53876874F3E6CD0502CF2BEA45C37819135BE6F6DE90292DA1D41219B4037C47&scope=openid%20profile%20allapis%20all&state=f3ba2f03451249cc8c3ce03db4806e3c",
+      "course-id": "IHG1227263"
+    },
+    {
+      "title": "IHG Way of Clean 5-S Cleaning Program - Introduction for Leadership",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 18,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?relyingParty=LM&url=app%2fmanagement%2fLMS_ActDetails.aspx%3fActivityId%3d6077%26UserMode%3d0",
+      "course-id": "IHG0046843"
+    },
+    {
+      "title": "Getting to Know IHG Concerto",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 19,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D52090%26UserMode%3D0",
+      "course-id": "IHG0049491"
+    },
+    {
+      "title": "IHG Concerto - MyID - Approvals",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 20,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D58%26UserMode%3D0",
+      "course-id": "IHG0054204"
+    },
+    {
+      "title": "IHG Concerto - MyID - Assigning Concerto Access",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 21,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D59%26UserMode%3D0",
+      "course-id": "IHG0054203"
+    },
+    {
+      "title": "IHG Concerto - MyID - Accessing IHG Concerto User Report",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 22,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D57%26UserMode%3D0",
+      "course-id": "IHG0054206"
+    },
+    {
+      "title": "IHG Concerto - MyID - Removing Access",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 23,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D60%26UserMode%3D0",
+      "course-id": "IHG0054205"
+    },
+    {
+      "title": "IHG Concerto Homepage overview",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 24,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D68%26UserMode%3D0",
+      "course-id": "IHG0052563"
+    },
+    {
+      "title": "IHG Concerto: Hotel Content Overview",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 25,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D67%26UserMode%3D0",
+      "course-id": "IHG0060624"
+    },
+    {
+      "title": "Global Sales Induction ",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 26,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D25674%26UserMode%3D0",
+      "course-id": "IHG7573378"
+    },
+    {
+      "title": "Sales Learning Pathway for On-Property New Sellers",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 27,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D6561%26UserMode%3D0",
+      "course-id": "IHG0054028"
+    },
+    {
+      "title": "Getting Started with MeetingBroker",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 28,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D62%26UserMode%3D0",
+      "course-id": "IHG0056663"
+    },
+    {
+      "title": "IHG Way of Sales - Solution Selling",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 29,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D5317%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dway%25252520of%25252520sales%25252520solution%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0025681"
+    },
+    {
+      "title": "GRS Fundamentals - Reservation, Rate and Inventory Management",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 30,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D6450%26UserMode%3D0",
+      "course-id": "IHG0049459"
+    },
+    {
+      "title": "RMS Fundamentals: Yielding & Price Optimization",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 31,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D1289%26UserMode%3D0",
+      "course-id": "IHG0049460"
+    },
+    {
+      "title": "IHG Concerto Hotel Release 2 - Inventory Reset Process Phase II",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 32,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D3438%26UserMode%3D0",
+      "course-id": "IHG0061343"
+    },
+    {
+      "title": "IHG Concerto Hotel Release 2 - Inventory Reset Process Phase III",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 33,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D64%26UserMode%3D0",
+      "course-id": "IHG0061983"
+    },
+    {
+      "title": "IHG Concerto Inventory Configuration - Sleeping Rooms",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 34,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D28229%26UserMode%3D0",
+      "course-id": "IHG1677402"
+    },
+    {
+      "title": "IHG Concerto - Getting to Know Inventory Balancing",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 35,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D440%26UserMode%3D0",
+      "course-id": "IHG53503"
+    },
+    {
+      "title": "General Manager Onboarding Learning Plan",
+      "timeframe": "",
+      "notes": "only to be completed after official hotel opening",
+      "sorting": 36,
+      "link": "",
+      "course-id": "access to the system will automatically be given."
+    },
+    {
+      "title": "General Manager Onboarding Learning Event",
+      "timeframe": "",
+      "notes": "only to be completed after official hotel opening",
+      "sorting": 37,
+      "link": "",
+      "course-id": "Prerequisite: Must complete Onboarding Learning Plan"
+    }
+  ]
+}

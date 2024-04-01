@@ -1,0 +1,128 @@
+{
+  "special-project": {
+    "name": "IHG  Hotel",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "True Hospitality Service Skills",
+      "timeframe": "",
+      "notes": "Group training possible",
+      "sorting": 1,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10700%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dtrue%25252520hospitality%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051263"
+    },
+    {
+      "title": "Luxury Fundamentals",
+      "timeframe": "",
+      "notes": "For soon-to-be InterContinental, Kimpton, Regent and Vignette Collection hotels only.",
+      "sorting": 2,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D3116%26UserMode%3D0",
+      "course-id": "IHG0063363"
+    },
+    {
+      "title": "Responsible Business Catalogue - follow guidance on brand-standard related trainings",
+      "timeframe": "",
+      "notes": "For franchised hotels only",
+      "sorting": 4,
+      "link": "https://me2.ihgmerlin.com/documents/344888240/0/Responsible+Business+-+Franchised+Nov+-+Sumtotal+link.pdf/75e0cfa4-d19e-ee5b-d1aa-7cda5250e60b?t=1668006187121;download=false",
+      "course-id": "https://me2.ihgmerlin.com/documents/344888240/0/Responsible+Business+-+Franchised+Nov+-+Sumtotal+link.pdf/75e0cfa4-d19e-ee5b-d1aa-7cda5250e60b?t=1668006187121;download=false"
+    },
+    {
+      "title": "Responsible Business Catalogue - follow guidance on brand-standard related trainings",
+      "timeframe": "",
+      "notes": "For managed hotels only",
+      "sorting": 5,
+      "link": "https://ihg.sharepoint.com/sites/ResponsibleBusiness/SiteAssets/SitePages/ResponsibleBusiness/Responsible-Business-Training---Training-available-to-Managed-Hotels-2022-Aug.pdf",
+      "course-id": "https://ihg.sharepoint.com/sites/ResponsibleBusiness/SiteAssets/SitePages/ResponsibleBusiness/Responsible-Business-Training---Training-available-to-Managed-Hotels-2022-Aug.pdf"
+    },
+    {
+      "title": "Leading and Sustaining your Service Culture",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 6,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D564%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dleading%25252520and%25252520sustaining%25252520your%25252520service%25252520culture%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0056403"
+    },
+    {
+      "title": "Explore Brand Sustainment Tools and apply accordingly",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 7,
+      "link": "https://mylearning.sumtotal.host/rcore/c/dash/www/google.com/initial?relyingParty=ELIXHRUI&nodeKey=dashboard_201_Brand_Training_Sustainment&nodeUrl=%2Fdash%2Fwww%2Fgoogle.com%2Finitial",
+      "course-id": "https://mylearning.sumtotal.host/rcore/c/dash/www/google.com/initial?relyingParty=ELIXHRUI&nodeKey=dashboard_201_Brand_Training_Sustainment&nodeUrl=%2Fdash%2Fwww%2Fgoogle.com%2Finitial"
+    },
+    {
+      "title": "IHG Problem Handling v2",
+      "timeframe": "",
+      "notes": "Group training possible",
+      "sorting": 8,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D21837%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dproblem%25252520handling%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG056045"
+    },
+    {
+      "title": "The Value of Loyalty",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 9,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240856%26UserMode%3D0",
+      "course-id": "IHG5072070"
+    },
+    {
+      "title": "Leading Loyalty",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 10,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D240860%26UserMode%3D0",
+      "course-id": "IHG6112495"
+    },
+    {
+      "title": "IHG One Rewards Program Overview",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 11,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240857%26UserMode%3D0",
+      "course-id": "IHG8755255"
+    },
+    {
+      "title": "Member Recognition",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 12,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240854%26UserMode%3D0",
+      "course-id": "IHG1984349"
+    },
+    {
+      "title": "The Value of Enrollments",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 13,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240855%26UserMode%3D0",
+      "course-id": "IHG2428898"
+    },
+    {
+      "title": "IHG Business Rewards Training",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 14,
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D1963%26UserMode%3D0",
+      "course-id": "IHG0052543"
+    },
+    {
+      "title": "IHG Way of Clean 5-S Cleaning Program",
+      "timeframe": "",
+      "notes": "Group training possible",
+      "sorting": 15,
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&amp;url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D280596%26UserMode%3D0",
+      "course-id": "IHG7376524"
+    },
+    {
+      "title": "IHG Way of Clean 5-S Cleaning Program - Introduction for Leadership",
+      "timeframe": "",
+      "notes": "",
+      "sorting": 16,
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?relyingParty=LM&url=app%2fmanagement%2fLMS_ActDetails.aspx%3fActivityId%3d6077%26UserMode%3d0",
+      "course-id": "IHG0046843"
+    }
+  ]
+}

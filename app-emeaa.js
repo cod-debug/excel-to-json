@@ -326,7 +326,6 @@ function capitalizeEachWord(sentence) {
   
     return capitalizedSentence;
   }
-console.log(emeaa);
 
 generateJson(brand_list);
 
@@ -429,7 +428,6 @@ function generateJson(data){
                 
                 
                     if(!isNaN(rowData[role_id]) && rowData[role_id] != ''){
-                        console.log(rowData[role_id]);
                         // Add the restructured data to the array
                         extractedData.push(restructuredData);
                     }
