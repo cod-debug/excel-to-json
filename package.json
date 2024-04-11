@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "america": "node app-america.js",
-    "emeaa": "node app-emeaa.js"
+    "emeaa": "node app-emeaa.js",
+    "unique-data": "node unique-data.js"
   },
   "keywords": [],
   "author": "",
