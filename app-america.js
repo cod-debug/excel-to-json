@@ -493,9 +493,9 @@ function generateJson(data){
 
                     // Restructure the data with 'holiday-inn-express' as the key
                     const restructuredData = {
-                        'title': rowData[item.brand_id].trim(),
-                        'timeframe': rowData['timeframe'].trim(),
-                        'notes': rowData['notes'].trim(),
+                        'title': rowData[item.brand_id].replace(/\s+/g, ' ').trim(),
+                        'timeframe': rowData['timeframe'].replace(/\s+/g, ' ').trim(),
+                        'notes': rowData['notes'].replace(/\s+/g, ' ').trim(),
                         'sorting': rowData[role_id],
                         'link': rowData['Course ID Link'],
                         'course-id': rowData['Course ID'],
@@ -512,21 +512,21 @@ function generateJson(data){
                         if(!to_be_removed.includes(restructuredData.title)){
                             extractedData.push(restructuredData);
                             
-                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData[item.brand_id].trim())){
-                                if(!trainingTitleList.includes(rowData[item.brand_id].trim())){
-                                    trainingTitleList.push(rowData[item.brand_id].trim());
+                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData[item.brand_id].replace(/\s+/g, ' ').trim())){
+                                if(!trainingTitleList.includes(rowData[item.brand_id].replace(/\s+/g, ' ').trim())){
+                                    trainingTitleList.push(rowData[item.brand_id].replace(/\s+/g, ' ').trim());
                                 }
                             }
 
-                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData['timeframe'].trim())){
-                                if(!timeframeList.includes(rowData['timeframe'].trim())){
-                                    timeframeList.push(rowData['timeframe'].trim());
+                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData['timeframe'].replace(/\s+/g, ' ').trim())){
+                                if(!timeframeList.includes(rowData['timeframe'].replace(/\s+/g, ' ').trim())){
+                                    timeframeList.push(rowData['timeframe'].replace(/\s+/g, ' ').trim());
                                 }
                             }
 
-                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData['notes'].trim())){
-                                if(!notesList.includes(rowData['notes'].trim())){
-                                    notesList.push(rowData['notes'].trim());
+                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData['notes'].replace(/\s+/g, ' ').trim())){
+                                if(!notesList.includes(rowData['notes'].replace(/\s+/g, ' ').trim())){
+                                    notesList.push(rowData['notes'].replace(/\s+/g, ' ').trim());
                                 }
                             }
                         }
