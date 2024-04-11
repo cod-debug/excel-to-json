@@ -312,6 +312,10 @@ fs.writeFileSync(jsonFilePath, JSON.stringify(emeaa, null, 2));
 
 console.log(`Data has been written to ${jsonFilePath}`);
 
+var trainingTitleList = [];
+var timeframeList = [];
+var notesList = [];
+
 function capitalizeEachWord(sentence) {
     // Split the sentence into an array of words
     var words = sentence.split(' ');
@@ -417,6 +421,10 @@ function generateJson(data){
                     };
 
                     // Restructure the data with 'holiday-inn-express' as the key
+                    // var trainingTitleList = [];
+                    // var timeframeList = [];
+                    // var notesList = [];
+
                     const restructuredData = {
                         'title': rowData[item.brand_id],
                         'timeframe': rowData['timeframe'],
@@ -429,6 +437,25 @@ function generateJson(data){
                 
                     if(!isNaN(rowData[role_id]) && rowData[role_id] != ''){
                         // Add the restructured data to the array
+
+                        if(!['','remove', 'Remove', 'x', 'X'].includes(rowData[item.brand_id].trim())){
+                            if(!trainingTitleList.includes(rowData[item.brand_id].trim())){
+                                trainingTitleList.push(rowData[item.brand_id].trim());
+                            }
+                        }
+
+                        if(!['','remove', 'Remove', 'x', 'X'].includes(rowData['timeframe'].trim())){
+                            if(!timeframeList.includes(rowData['timeframe'].trim())){
+                                timeframeList.push(rowData['timeframe'].trim());
+                            }
+                        }
+
+                        if(!['','remove', 'Remove', 'x', 'X'].includes(rowData['notes'].trim())){
+                            if(!notesList.includes(rowData['notes'].trim())){
+                                notesList.push(rowData['notes'].trim());
+                            }
+                        }
+
                         extractedData.push(restructuredData);
                     }
                 }
@@ -442,6 +469,7 @@ function generateJson(data){
     
                 // Alternatively, you can write the extracted data to a new JSON file
                 const jsonFilePath = `./${item.region}/${item.region}.${item.brand_id}.${role_id}.json`;
+                
                 // Ensure that the directories leading up to the file path exist
                 const directoryPath = path.dirname(jsonFilePath);
 
@@ -459,6 +487,39 @@ function generateJson(data){
         }
     });
     
+
+    // Save unique titles on a json file
+    const titlesFilePath=`./lists/emeaa-titles.json`;
+    const titlesDirectoryPath = path.dirname(titlesFilePath);
+
+    if (!fs.existsSync(titlesDirectoryPath)) {
+        // Create the directory structure recursively
+        fs.mkdirSync(titlesDirectoryPath, { recursive: true });
+    }
+
+    fs.writeFileSync(titlesFilePath, JSON.stringify(trainingTitleList, null, 2));
+
+    // Save unique timeframes on a json file
+    const timeframeFilePath=`./lists/emeaa-timeframe.json`;
+    const timeframeDirectoryPath = path.dirname(timeframeFilePath);
+
+    if (!fs.existsSync(timeframeDirectoryPath)) {
+        // Create the directory structure recursively
+        fs.mkdirSync(timeframeDirectoryPath, { recursive: true });
+    }
+
+    fs.writeFileSync(timeframeFilePath, JSON.stringify(timeframeList, null, 2));
+
+    // Save unique notes on a json file
+    const noteFilePath=`./lists/emeaa-note.json`;
+    const noteDirectoryPath = path.dirname(noteFilePath);
+
+    if (!fs.existsSync(noteDirectoryPath)) {
+        // Create the directory structure recursively
+        fs.mkdirSync(noteDirectoryPath, { recursive: true });
+    }
+
+    fs.writeFileSync(noteFilePath, JSON.stringify(notesList, null, 2));
 
     console.log(count, 'files');
 }

@@ -382,6 +382,11 @@ fs.writeFileSync(jsonFilePath, JSON.stringify(americas, null, 2));
 
 console.log(`Data has been written to ${jsonFilePath}`);
 
+
+var trainingTitleList = [];
+var timeframeList = [];
+var notesList = [];
+
 function capitalizeEachWord(sentence) {
     // Split the sentence into an array of words
     var words = sentence.split(' ');
@@ -488,9 +493,9 @@ function generateJson(data){
 
                     // Restructure the data with 'holiday-inn-express' as the key
                     const restructuredData = {
-                        'title': rowData[item.brand_id],
-                        'timeframe': rowData['timeframe'],
-                        'notes': rowData['notes'],
+                        'title': rowData[item.brand_id].trim(),
+                        'timeframe': rowData['timeframe'].trim(),
+                        'notes': rowData['notes'].trim(),
                         'sorting': rowData[role_id],
                         'link': rowData['Course ID Link'],
                         'course-id': rowData['Course ID'],
@@ -506,6 +511,24 @@ function generateJson(data){
                     if(!isNaN(rowData[role_id]) && rowData[role_id] != ''){
                         if(!to_be_removed.includes(restructuredData.title)){
                             extractedData.push(restructuredData);
+                            
+                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData[item.brand_id].trim())){
+                                if(!trainingTitleList.includes(rowData[item.brand_id].trim())){
+                                    trainingTitleList.push(rowData[item.brand_id].trim());
+                                }
+                            }
+
+                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData['timeframe'].trim())){
+                                if(!timeframeList.includes(rowData['timeframe'].trim())){
+                                    timeframeList.push(rowData['timeframe'].trim());
+                                }
+                            }
+
+                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData['notes'].trim())){
+                                if(!notesList.includes(rowData['notes'].trim())){
+                                    notesList.push(rowData['notes'].trim());
+                                }
+                            }
                         }
                     }
                 }
@@ -555,6 +578,39 @@ function generateJson(data){
         }
     });
     
+
+    // Save unique titles on a json file
+    const titlesFilePath=`./lists/americas-titles.json`;
+    const titlesDirectoryPath = path.dirname(titlesFilePath);
+
+    if (!fs.existsSync(titlesDirectoryPath)) {
+        // Create the directory structure recursively
+        fs.mkdirSync(titlesDirectoryPath, { recursive: true });
+    }
+
+    fs.writeFileSync(titlesFilePath, JSON.stringify(trainingTitleList, null, 2));
+
+    // Save unique timeframes on a json file
+    const timeframeFilePath=`./lists/americas-timeframe.json`;
+    const timeframeDirectoryPath = path.dirname(timeframeFilePath);
+
+    if (!fs.existsSync(timeframeDirectoryPath)) {
+        // Create the directory structure recursively
+        fs.mkdirSync(timeframeDirectoryPath, { recursive: true });
+    }
+
+    fs.writeFileSync(timeframeFilePath, JSON.stringify(timeframeList, null, 2));
+
+    // Save unique notes on a json file
+    const noteFilePath=`./lists/americas-note.json`;
+    const noteDirectoryPath = path.dirname(noteFilePath);
+
+    if (!fs.existsSync(noteDirectoryPath)) {
+        // Create the directory structure recursively
+        fs.mkdirSync(noteDirectoryPath, { recursive: true });
+    }
+
+    fs.writeFileSync(noteFilePath, JSON.stringify(notesList, null, 2));
 
     console.log(count, 'files');
 }
