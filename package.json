@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "america": "node app-america.js",
     "emeaa": "node app-emeaa.js",
+    "china": "node app-china.js",
     "unique-data": "node unique-data.js"
   },
   "keywords": [],

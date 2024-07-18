@@ -4,14 +4,24 @@ const path = require('path');
 const he = require('he');
 
 // Replace 'your-file.xlsx' with the name of your Excel file
-const excelFilePath = 'OJT Template_AMER.xlsx';
+const excelFilePath = 'OJT Template_GC.xlsx';
 
 // Load the Excel file
 const workbook = XLSX.readFile(excelFilePath);
 
 //  role_headers
-const region = 'americas';
+const region = 'china';
 const brand_list = [
+    {   
+        brand_id: 'hualuxe',
+        brand_name: 'Hualuxe',
+        row_index: 1,
+    },
+    {   
+        brand_id: 'vignette',
+        brand_name: 'Vignette',
+        row_index: 1,
+    },
     {   
         brand_id: 'regent',
         brand_name: 'Regent',
@@ -25,11 +35,6 @@ const brand_list = [
     {   
         brand_id: 'kimpton',
         brand_name: 'Kimpton',
-        row_index: 1,
-    },
-    {   
-        brand_id: 'vignette',
-        brand_name: 'Vignette',
         row_index: 1,
     },
     {   
@@ -63,39 +68,18 @@ const brand_list = [
         row_index: 1,
     },
     {   
-        region: 'americas',
-        brand_id: 'avid-hotels',
-        brand_name: 'Avid Hotels',
-        row_index: 1,
-    },
-    {   
-        brand_id: 'garner',
-        brand_name: 'Garner',
-        row_index: 1,
-    },
-    {   
-        brand_id: 'atwell-suites',
-        brand_name: 'Atwell Suites',
-        row_index: 1,
-    },
-    {   
         brand_id: 'staybridge-suites',
         brand_name: 'Staybridge Suites',
         row_index: 1,
     },
-    {   
-        brand_id: 'candlewood-suites',
-        brand_name: 'Candlewood Suites',
-        row_index: 1,
-    }
 ];
 
-let americas = {
-    americas: {},
+let china = {
+    china: {},
 }
 
 brand_list.map((i) => {
-    americas.americas[i.brand_id] = {
+    china.china[i.brand_id] = {
         name: i.brand_name,
         pictures: {
             logo: `./img/icons/${i.brand_id}.png`
@@ -114,7 +98,7 @@ if (!fs.existsSync(directoryPath)) {
 }
 
 // Now you can write the data to the file
-fs.writeFileSync(jsonFilePath, JSON.stringify(americas, null, 2));
+fs.writeFileSync(jsonFilePath, JSON.stringify(china, null, 2));
 
 console.log(`Data has been written to ${jsonFilePath}`);
 
@@ -215,7 +199,9 @@ function generateJson(data){
             };
 
             // push to extracted data all trainings found
-            extractedData.push(restructuredData);
+            if(restructuredData.course_title !== ""){
+                extractedData.push(restructuredData);
+            }
         }
 
         let brand_parsed = {
@@ -245,7 +231,7 @@ function generateJson(data){
     
 
     // Save unique titles on a json file
-    const titlesFilePath=`./lists/americas-titles.json`;
+    const titlesFilePath=`./lists/china-titles.json`;
     const titlesDirectoryPath = path.dirname(titlesFilePath);
 
     if (!fs.existsSync(titlesDirectoryPath)) {
@@ -256,7 +242,7 @@ function generateJson(data){
     fs.writeFileSync(titlesFilePath, JSON.stringify(trainingTitleList, null, 2));
 
     // Save unique timeframes on a json file
-    const timeframeFilePath=`./lists/americas-timeframe.json`;
+    const timeframeFilePath=`./lists/china-timeframe.json`;
     const timeframeDirectoryPath = path.dirname(timeframeFilePath);
 
     if (!fs.existsSync(timeframeDirectoryPath)) {
@@ -267,7 +253,7 @@ function generateJson(data){
     fs.writeFileSync(timeframeFilePath, JSON.stringify(timeframeList, null, 2));
 
     // Save unique notes on a json file
-    const noteFilePath=`./lists/americas-note.json`;
+    const noteFilePath=`./lists/china-note.json`;
     const noteDirectoryPath = path.dirname(noteFilePath);
 
     if (!fs.existsSync(noteDirectoryPath)) {

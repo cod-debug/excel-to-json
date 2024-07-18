@@ -1,0 +1,76 @@
+{
+  "china": {
+    "hualuxe": {
+      "name": "Hualuxe",
+      "pictures": {
+        "logo": "./img/icons/hualuxe.png"
+      }
+    },
+    "vignette": {
+      "name": "Vignette",
+      "pictures": {
+        "logo": "./img/icons/vignette.png"
+      }
+    },
+    "regent": {
+      "name": "Regent",
+      "pictures": {
+        "logo": "./img/icons/regent.png"
+      }
+    },
+    "intercontinental": {
+      "name": "Intercontinental",
+      "pictures": {
+        "logo": "./img/icons/intercontinental.png"
+      }
+    },
+    "kimpton": {
+      "name": "Kimpton",
+      "pictures": {
+        "logo": "./img/icons/kimpton.png"
+      }
+    },
+    "hotel-indigo": {
+      "name": "Hotel Indigo",
+      "pictures": {
+        "logo": "./img/icons/hotel-indigo.png"
+      }
+    },
+    "voco-hotels": {
+      "name": "Voco Hotels",
+      "pictures": {
+        "logo": "./img/icons/voco-hotels.png"
+      }
+    },
+    "crowne-plaza": {
+      "name": "Crowne Plaza",
+      "pictures": {
+        "logo": "./img/icons/crowne-plaza.png"
+      }
+    },
+    "even-hotels": {
+      "name": "Even Hotels",
+      "pictures": {
+        "logo": "./img/icons/even-hotels.png"
+      }
+    },
+    "holiday-inn": {
+      "name": "Holiday Inn",
+      "pictures": {
+        "logo": "./img/icons/holiday-inn.png"
+      }
+    },
+    "holiday-inn-express": {
+      "name": "Holiday Inn Express",
+      "pictures": {
+        "logo": "./img/icons/holiday-inn-express.png"
+      }
+    },
+    "staybridge-suites": {
+      "name": "Staybridge Suites",
+      "pictures": {
+        "logo": "./img/icons/staybridge-suites.png"
+      }
+    }
+  }
+}

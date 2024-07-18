@@ -1,0 +1,85 @@
+{
+  "intercontinental": {
+    "name": "Intercontinental",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "course_title": "Handling Credit Cards Securely",
+      "instructions": "View the videos with your group to complete the learning offer",
+      "access_text": "Access Resource",
+      "access_link": "https://ihg.sumtotal.ccedge.cn/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D15086%26UserMode%3D0",
+      "create_ojt_link": ""
+    },
+    {
+      "course_title": "Getting to Know IHG Concerto",
+      "instructions": "View the videos with your group to complete the learning offer . Once complete, review the assessments as a group. NOTE: Assessment records are not required)",
+      "access_text": "Access course",
+      "access_link": "",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D595027%26UserMode%3D0"
+    },
+    {
+      "course_title": "IHG Voice Program Training",
+      "instructions": "View the videos with your group to complete the learning offer",
+      "access_text": "Access course",
+      "access_link": "",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D595030%26UserMode%3D0"
+    },
+    {
+      "course_title": "Introduction to Information Security",
+      "instructions": "View the videos with your group to complete the learning offer",
+      "access_text": "Access course",
+      "access_link": "https://ihg.sumtotal.ccedge.cn/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D15004%26UserMode%3D0",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D596771%26UserMode%3D0"
+    },
+    {
+      "course_title": "Leading and Sustaining your Service Culture",
+      "instructions": "View the videos with your group to complete the learning offer . Once complete, review the assessments as a group. NOTE: Assessment records are not required)",
+      "access_text": "Access course",
+      "access_link": "https://ihg.sumtotal.ccedge.cn/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D15123%26UserMode%3D0",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D596773%26UserMode%3D0"
+    },
+    {
+      "course_title": "Luxury Fundamentals",
+      "instructions": "Use the link provided to access the learning offer. Review the offering in its entirety to complete.",
+      "access_text": "Access Course",
+      "access_link": "https://ihg.sumtotal.ccedge.cn/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D14987%26UserMode%3D0",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D468099%26UserMode%3D0"
+    },
+    {
+      "course_title": "IHG Problem Handling V2",
+      "instructions": "View the videos with your group to complete the learning offer . Once complete, review the assessments as a group. NOTE: Assessment records are not required)",
+      "access_text": "Access course",
+      "access_link": "https://ihg.sumtotal.ccedge.cn/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D21641%26UserMode%3D0",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D468096%26UserMode%3D0"
+    },
+    {
+      "course_title": "True Hospitality Service Skills",
+      "instructions": "View the videos with your group to complete the learning offer . Once complete, review the assessments as a group. NOTE: Assessment records are not required)",
+      "access_text": "Access course",
+      "access_link": "https://ihg.sumtotal.ccedge.cn/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D15730%26UserMode%3D0",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D468090%26UserMode%3D0"
+    },
+    {
+      "course_title": "Welcome to IHG",
+      "instructions": "View the videos with your group to complete the learning offer",
+      "access_text": "Access course",
+      "access_link": "https://ihg.sumtotal.ccedge.cn/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D20297%26UserMode%3D0",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D466521%26UserMode%3D0"
+    },
+    {
+      "course_title": "Property Orientation",
+      "instructions": "Complete a tour of your property with new hires.",
+      "access_text": "",
+      "access_link": "",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D603028%26UserMode%3D0"
+    },
+    {
+      "course_title": "InterContinental Hotels and Resorts Brand Orientation",
+      "instructions": "View the videos with your group to complete the learning offer . Once complete, review the assessments as a group. NOTE: Assessment records are not required)",
+      "access_text": "Access https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2fmanagement%2fLMS_ActDetails.aspx%3fActivityId%3d10703%26UserMode%3d0",
+      "access_link": "",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D595032%26UserMode%3D0"
+    }
+  ]
+}
