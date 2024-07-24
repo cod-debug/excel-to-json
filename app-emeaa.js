@@ -4,7 +4,7 @@ const path = require('path');
 const he = require('he');
 
 // Replace 'your-file.xlsx' with the name of your Excel file
-const excelFilePath = 'OJT Template_EMEAA.xlsx';
+const excelFilePath = 'OJT Template_EMEAA-Editable.xlsx';
 
 // Load the Excel file
 const workbook = XLSX.readFile(excelFilePath);
@@ -176,8 +176,8 @@ function generateJson(data){
 
             const hyperLinkURLAccess =  he.decode(worksheet[`C${rowIndex+1}`]?.l?.Target || '');; 
             // Perform the lookup for the value in column E and get the corresponding value from column H
-            const lookupValue = worksheet[`E${rowIndex + 1}`]?.v; // Adjust this if the lookup value is from another column
-            let hyperlinkURLCreateOjt = xlookup(lookupValue, lookupColumn, returnColumn);
+            const lookupValue = worksheet[`F${rowIndex + 1}`]?.v; // Adjust this if the lookup value is from another column
+            // let hyperlinkURLCreateOjt = xlookup(lookupValue, lookupColumn, returnColumn);
 
             // restructure data to polish and trim values
             const restructuredData = {
@@ -185,7 +185,7 @@ function generateJson(data){
                 'instructions': rowValues['instructions'].replace(/\s+/g, ' ').trim(),
                 'access_text': rowValues['access_text'] ? 'Access ' + rowValues['access_text'].replace(/\s+/g, ' ').trim() : '',
                 'access_link': hyperLinkURLAccess,
-                'create_ojt_link': he.decode(hyperlinkURLCreateOjt),
+                'create_ojt_link': he.decode(lookupValue),
             };
 
             // push to extracted data all trainings found
@@ -194,16 +194,24 @@ function generateJson(data){
             }
         }
 
+        // sort courses by course title alphabetically 
+        let sortedData = extractedData.sort((a, b) => {
+            let x = a.course_title.toLowerCase();
+            let y = b.course_title.toLowerCase();
+
+            return x < y ? -1 : x > y ? 1 : 0;
+        });
+
         let brand_parsed = {
             ...brand,
             trainings: [
-                ...extractedData
+                ...sortedData
             ],
         }
 
         // Alternatively, you can write the extracted data to a new JSON file
         const jsonFilePath = `./${region}/${region}.${item.brand_id}.json`;
-        
+
         // Ensure that the directories leading up to the file path exist
         const directoryPath = path.dirname(jsonFilePath);
 

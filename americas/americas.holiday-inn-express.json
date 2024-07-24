@@ -12,13 +12,6 @@
       "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D595005%26UserMode%3D0"
     },
     {
-      "course_title": "The Express Start Breakfast Bar Experience - US & Canada",
-      "instructions": "View the videos with your group to complete the learning offer . Once complete, review the assessments as a group. NOTE: Assessment records are not required)",
-      "access_text": "Access course",
-      "access_link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D10712%26UserMode%3D0",
-      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D595007%26UserMode%3D0"
-    },
-    {
       "course_title": "First Aid",
       "instructions": "Review your first aid procedures and practices.",
       "access_text": "",
@@ -26,11 +19,18 @@
       "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D601671%26UserMode%3D0"
     },
     {
+      "course_title": "Getting to Know IHG Concerto",
+      "instructions": "View the videos with your group to complete the learning offer . Once complete, review the assessments as a group. NOTE: Assessment records are not required)",
+      "access_text": "Access course",
+      "access_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2fmanagement%2fLMS_ActDetails.aspx%3fActivityId%3d52090%26UserMode%3d0",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D595027%26UserMode%3D0"
+    },
+    {
       "course_title": "Handling Credit Cards Securely",
       "instructions": "View the videos with your group to complete the learning offer",
       "access_text": "Access Resource",
       "access_link": "https://me2.ihgmerlin.com/web/init-ihg-information-security/homeandhttps:/me2.ihgmerlin.com/web/init-pci-compliance",
-      "create_ojt_link": ""
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2fmanagement%2fLMS_ActDetails.aspx%3fActivityId%3d595012%26UserMode%3d0"
     },
     {
       "course_title": "Health & Safety, Security an Emergency Procedures",
@@ -40,6 +40,13 @@
       "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D601724%26UserMode%3D0"
     },
     {
+      "course_title": "Holiday Inn Express Brand Service Training",
+      "instructions": "View the videos with your group to complete the learning offer",
+      "access_text": "Access course",
+      "access_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2fmanagement%2fLMS_ActDetails.aspx%3fActivityId%3d366737%26UserMode%3d0",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D471268%26UserMode%3D0"
+    },
+    {
       "course_title": "Housekeeping Safety Device (US & Canada only)",
       "instructions": "Review maunufactor operating manual for equipment and procedure for action when an alarm is triggered",
       "access_text": "",
@@ -47,17 +54,17 @@
       "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D601740%26UserMode%3D0"
     },
     {
-      "course_title": "Getting to Know IHG Concerto",
+      "course_title": "IHG Problem Handling V2",
       "instructions": "View the videos with your group to complete the learning offer . Once complete, review the assessments as a group. NOTE: Assessment records are not required)",
       "access_text": "Access course",
-      "access_link": "",
-      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D595027%26UserMode%3D0"
+      "access_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D21837%26UserMode%3D0",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D468095%26UserMode%3D0"
     },
     {
       "course_title": "IHG Voice Program Training",
       "instructions": "View the videos with your group to complete the learning offer",
       "access_text": "Access course",
-      "access_link": "",
+      "access_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2fmanagement%2fLMS_ActDetails.aspx%3fActivityId%3d2823%26UserMode%3d0",
       "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D595030%26UserMode%3D0"
     },
     {
@@ -103,18 +110,25 @@
       "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D468091%26UserMode%3D0"
     },
     {
-      "course_title": "IHG Problem Handling V2",
-      "instructions": "View the videos with your group to complete the learning offer . Once complete, review the assessments as a group. NOTE: Assessment records are not required)",
-      "access_text": "Access course",
-      "access_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D21837%26UserMode%3D0",
-      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D468095%26UserMode%3D0"
-    },
-    {
       "course_title": "Property Management System (PMS)",
       "instructions": "Review maunufactor operating manual relevant department training in the PMS system",
       "access_text": "",
       "access_link": "",
       "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D602920%26UserMode%3D0"
+    },
+    {
+      "course_title": "Property Orientation",
+      "instructions": "Complete a tour of your property with new hires.",
+      "access_text": "",
+      "access_link": "",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D603028%26UserMode%3D0"
+    },
+    {
+      "course_title": "The Express Start Breakfast Bar Experience - US & Canada",
+      "instructions": "View the videos with your group to complete the learning offer . Once complete, review the assessments as a group. NOTE: Assessment records are not required)",
+      "access_text": "Access course",
+      "access_link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D10712%26UserMode%3D0",
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D595007%26UserMode%3D0"
     },
     {
       "course_title": "True Hospitality Service Skills",
@@ -128,21 +142,7 @@
       "instructions": "View the videos with your group to complete the learning offer",
       "access_text": "Access course",
       "access_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D10770%26UserMode%3D0",
-      "create_ojt_link": ""
-    },
-    {
-      "course_title": "Property Orientation",
-      "instructions": "Complete a tour of your property with new hires.",
-      "access_text": "",
-      "access_link": "",
-      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D603028%26UserMode%3D0"
-    },
-    {
-      "course_title": "Holiday Inn Express Brand Service Training",
-      "instructions": "View the videos with your group to complete the learning offer",
-      "access_text": "Access course",
-      "access_link": "",
-      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D471268%26UserMode%3D0"
+      "create_ojt_link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D606314%26UserMode%3D0"
     }
   ]
 }
