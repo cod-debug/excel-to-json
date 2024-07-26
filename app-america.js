@@ -10,8 +10,8 @@ const excelFilePath = 'americas-v3.xlsx';
 
 // Load the Excel file
 const workbook = XLSX.readFile(excelFilePath);
-//  role_headers
 
+//  role_headers
 const brand_list = [
     {   
         region: 'americas',
@@ -416,15 +416,25 @@ function generateJson(data){
     
     
         let brand = {};
-    
+        
+        /*  |=================
+            | BRAND AS OBJECT
+            |=================
+            the example output of this for REGENT brand
+            {
+                "regent": {
+                    'name': "Regent",
+                    'hero-image': './images/'
+                }
+            }
+        */
         brand[item.brand_id] = {
             'name': item.brand_name,
             'hero-image': './images/',
         }
     
         // Headers to identify the columns in the Excel sheet
-        let headers = {
-        };
+        let headers = {};
     
         headers[item.brand_id] = "General Manager Operates";
     
@@ -435,6 +445,7 @@ function generateJson(data){
             'notes': '',
             ...item.role_headers,
         }
+
         for (const role_id in item.role_headers) {
             // Initialize an array to store the extracted data
             const extractedData = [];
@@ -460,7 +471,11 @@ function generateJson(data){
                     var hyperlinkURL = he.decode(worksheet[`B${rowIndex+1}`]?.l?.Target || '');
                     var courseID = rowValues['course-id'];
 
-                    // ADDITIONAL CONDITIONS FOR CLIENT ADJUSTMENTS ON EXCEL FILE
+                    /*
+                        | ===========================================================
+                        | ADDITIONAL CONDITIONS FOR CLIENT ADJUSTMENTS ON EXCEL FILE
+                        | ===========================================================
+                    */
                     /*  ---------------- ADJUSTMENT #1 ----------------
                         IHG Way of Clean
                         For all roles, brands, and regions:
@@ -493,14 +508,20 @@ function generateJson(data){
 
                     // Restructure the data with 'holiday-inn-express' as the key
                     const restructuredData = {
-                        'title': rowData[item.brand_id].replace(/\s+/g, ' ').trim(),
+                        'title': rowData[item.brand_id].replace(/\s+/g, ' ').trim(), // trim the strings properly removed extra spaces including in between texts
                         'timeframe': rowData['timeframe'].replace(/\s+/g, ' ').trim(),
                         'notes': rowData['notes'].replace(/\s+/g, ' ').trim(),
                         'sorting': rowData[role_id],
                         'link': rowData['Course ID Link'],
                         'course-id': rowData['Course ID'],
                     };
-                
+                    
+                    /*
+                        | ======================================================
+                        | CLIENT REQUEST FOR REMOVAL OF SOME TRAINING / COURSE
+                        | ======================================================
+                            Added a logic to remove training courses using their course title.
+                    */
                     let to_be_removed = [
                         'IHG Culture of Clean Implementation',
                         'IHG Way of Clean Bedding and Duvet',
@@ -508,6 +529,8 @@ function generateJson(data){
                         'IHG Way of Clean Daily Room Refresh'
                     ];
 
+                    /* if value under specific ROLE column is not a number this will not be included on the json file, 
+                    meaning training courses without sorting number in them will not be included on the json file */
                     if(!isNaN(rowData[role_id]) && rowData[role_id] != ''){
                         if(!to_be_removed.includes(restructuredData.title)){
                             extractedData.push(restructuredData);
@@ -558,7 +581,7 @@ function generateJson(data){
                     ],
                 }
     
-                // Alternatively, you can write the extracted data to a new JSON file
+                // Alternatively, you can write the extracted data to a new JSON file example output "/americas/americas.regent.general-manager.json"
                 const jsonFilePath = `./${item.region}/${item.region}.${item.brand_id}.${role_id}.json`;
                 
                 // Ensure that the directories leading up to the file path exist
