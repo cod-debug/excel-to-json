@@ -66,12 +66,7 @@ const brand_list = [
         brand_id: 'holiday-inn-express',
         brand_name: 'Holiday Inn Express',
         row_index: 1,
-    },
-    {   
-        brand_id: 'staybridge-suites',
-        brand_name: 'Staybridge Suites',
-        row_index: 1,
-    },
+    }
 ];
 
 let china = {
@@ -200,6 +195,13 @@ function generateJson(data){
 
             // push to extracted data all trainings found
             if(restructuredData.course_title !== ""){
+                if(!trainingTitleList.includes(rowValues['course_title'].replace(/\s+/g, ' ').trim())){
+                    trainingTitleList.push(rowValues['course_title'].replace(/\s+/g, ' ').trim());
+                }
+                
+                if(!notesList.includes(rowValues['instructions'].replace(/\s+/g, ' ').trim())){
+                    notesList.push(rowValues['instructions'].replace(/\s+/g, ' ').trim());
+                }
                 extractedData.push(restructuredData);
             }
         }

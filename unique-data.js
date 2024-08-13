@@ -4,7 +4,8 @@ const path = require('path');
 // UNIQUE TITLES
 let americas_titles = require('./lists/americas-titles.json');
 let emeaa_titles = require('./lists/emeaa-titles.json');
-let concatinated_titles = americas_titles.concat(emeaa_titles);
+let china_titles = require('./lists/china-titles.json');
+let concatinated_titles = (americas_titles.concat(emeaa_titles)).concat(china_titles);
 let unique_titles = removeDuplicates(concatinated_titles);
 const uniqueTitlesPathJson = `./unique-data/titles.json`;
 const uniqueTitlesPath = path.dirname(uniqueTitlesPathJson);
@@ -28,7 +29,8 @@ fs.writeFileSync(uniqueTimeframePathJson, JSON.stringify(unique_timeframe.sort((
 // UNIQUE TIMEFRAMES
 let americas_notes = require('./lists/americas-note.json');
 let emeaa_notes = require('./lists/emeaa-note.json');
-let concatinated_notes = americas_notes.concat(emeaa_notes);
+let china_notes = require('./lists/china-note.json');
+let concatinated_notes = (americas_notes.concat(emeaa_notes)).concat(china_notes);
 let unique_notes = removeDuplicates(concatinated_notes);
 const uniqueNotesPathJson = `./unique-data/notes.json`;
 const uniqueNotes = path.dirname(uniqueNotesPathJson);

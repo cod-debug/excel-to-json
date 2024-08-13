@@ -190,6 +190,14 @@ function generateJson(data){
 
             // push to extracted data all trainings found
             if(restructuredData.course_title !== ""){
+                if(!trainingTitleList.includes(rowValues['course_title'].replace(/\s+/g, ' ').trim())){
+                    trainingTitleList.push(rowValues['course_title'].replace(/\s+/g, ' ').trim());
+                }
+                
+                if(!notesList.includes(rowValues['instructions'].replace(/\s+/g, ' ').trim())){
+                    notesList.push(rowValues['instructions'].replace(/\s+/g, ' ').trim());
+                }
+                
                 extractedData.push(restructuredData);
             }
         }

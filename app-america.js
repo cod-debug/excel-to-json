@@ -213,7 +213,15 @@ function generateJson(data){
                 'access_link': hyperLinkURLAccess,
                 'create_ojt_link': he.decode(lookupValue),
             };
-
+            
+            if(!trainingTitleList.includes(rowValues['course_title'].replace(/\s+/g, ' ').trim())){
+                trainingTitleList.push(rowValues['course_title'].replace(/\s+/g, ' ').trim());
+            }
+                
+            if(!notesList.includes(rowValues['instructions'].replace(/\s+/g, ' ').trim())){
+                notesList.push(rowValues['instructions'].replace(/\s+/g, ' ').trim());
+            }
+            
             // push to extracted data all trainings found
             extractedData.push(restructuredData);
         }

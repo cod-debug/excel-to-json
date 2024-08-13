@@ -65,12 +65,6 @@
       "pictures": {
         "logo": "./img/icons/holiday-inn-express.png"
       }
-    },
-    "staybridge-suites": {
-      "name": "Staybridge Suites",
-      "pictures": {
-        "logo": "./img/icons/staybridge-suites.png"
-      }
     }
   }
 }
