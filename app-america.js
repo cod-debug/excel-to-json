@@ -13,13 +13,13 @@ const workbook = XLSX.readFile(excelFilePath);
 const region = 'americas';
 const brand_list = [
     {   
-        brand_id: 'regent',
-        brand_name: 'Regent',
+        brand_id: 'intercontinental',
+        brand_name: 'Intercontinental',
         row_index: 1,
     },
     {   
-        brand_id: 'intercontinental',
-        brand_name: 'Intercontinental',
+        brand_id: 'regent',
+        brand_name: 'Regent',
         row_index: 1,
     },
     {   
