@@ -1,15 +1,15 @@
 {
   "americas": {
-    "intercontinental": {
-      "name": "Intercontinental",
-      "pictures": {
-        "logo": "./img/icons/intercontinental.png"
-      }
-    },
     "regent": {
       "name": "Regent",
       "pictures": {
         "logo": "./img/icons/regent.png"
+      }
+    },
+    "intercontinental": {
+      "name": "Intercontinental",
+      "pictures": {
+        "logo": "./img/icons/intercontinental.png"
       }
     },
     "kimpton": {
