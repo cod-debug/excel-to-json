@@ -324,8 +324,8 @@
         "revenue-manager": {
           "name": "Revenue Manager"
         },
-        "food-and-beverage-manager-1": {
-          "name": "Food And Beverage Manager 1"
+        "food-and-beverage-manager": {
+          "name": "Food And Beverage Manager"
         },
         "hotel-experience-champion": {
           "name": "Hotel Experience Champion"
@@ -339,8 +339,8 @@
         "engineering": {
           "name": "Engineering"
         },
-        "food-and-beverage-manager-2": {
-          "name": "Food And Beverage Manager 2"
+        "food-and-beverage-colleague": {
+          "name": "Food And Beverage Colleague"
         },
         "all-other-management-colleagues": {
           "name": "All Other Management Colleagues"
@@ -615,8 +615,8 @@
         "engineering": {
           "name": "Engineering"
         },
-        "breakfast-host": {
-          "name": "Breakfast Host"
+        "food-and-beverage": {
+          "name": "Food and Beverage"
         },
         "all-other-non-management-colleagues": {
           "name": "All Other Non Management Colleagues"

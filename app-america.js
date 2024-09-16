@@ -6,7 +6,7 @@ const he = require('he');
 
 
 // Replace 'your-file.xlsx' with the name of your Excel file
-const excelFilePath = 'americas-v3.xlsx';
+const excelFilePath = 'New Colleague Data File_AMER_29August.xlsx';
 
 // Load the Excel file
 const workbook = XLSX.readFile(excelFilePath);
@@ -18,7 +18,7 @@ const brand_list = [
         brand_id: 'regent',
         brand_name: 'Regent',
         sheet_index: 1,
-        row_index: 2,
+        row_index: 1,
         role_headers: {
             'general-manager': '',
             'front-office-manager': '',
@@ -164,12 +164,12 @@ const brand_list = [
             'executive-housekeeper': '',
             'chief-engineer': '',
             'revenue-manager': '',
-            'food-and-beverage-manager-1': '',
+            'food-and-beverage-manager': '',
             'hotel-experience-champion': '',
             'front-desk': '',
             'housekeeping': '',
             'engineering': '',
-            'food-and-beverage-manager-2': '',
+            'food-and-beverage-colleague': '',
             'all-other-management-colleagues': '',
             'all-other-non-management-colleagues': '',
         },
@@ -299,7 +299,7 @@ const brand_list = [
             'front-desk': null,
             'housekeeping': null,
             'engineering': null,
-            'breakfast-host': null,
+            'food-and-beverage': null,
             'all-other-non-management-colleagues': null,
         },
     },
@@ -441,7 +441,9 @@ function generateJson(data){
         headers = {
             ...headers,
             'course-id': '',
+            'timeframeSorting': '',
             'timeframe': '',
+            'priority': '',
             'notes': '',
             ...item.role_headers,
         }
@@ -459,7 +461,7 @@ function generateJson(data){
                         acc[key] = cell?.v || '';
                         return acc;
                     }, {});
-                
+
                     // Check if all cells in the row are empty
                     const isRowEmpty = Object.values(rowValues).every(value => value === '');
                 
@@ -471,108 +473,30 @@ function generateJson(data){
                     var hyperlinkURL = he.decode(worksheet[`B${rowIndex+1}`]?.l?.Target || '');
                     var courseID = rowValues['course-id'];
 
-                    /*
-                        | ===========================================================
-                        | ADDITIONAL CONDITIONS FOR CLIENT ADJUSTMENTS ON EXCEL FILE
-                        | ===========================================================
-                    */
-                    /*  ---------------- ADJUSTMENT #1 ----------------
-                        IHG Way of Clean
-                        For all roles, brands, and regions:
-                        • Replace link and course ID for IHG Way of Clean 5-S Cleaning Program to:
-                        IHG7376524
-                        https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&amp;url=app%2Fmanagement%2FL
-                        MS_ActDetails.aspx%3FActivityId%3D280596%26UserMode%3D0
-                    */
-                    if(rowValues[item.brand_id].toLowerCase() === "IHG Way of Clean 5-S Cleaning Program".toLowerCase()){
-                        hyperlinkURL = `https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&amp;url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D280596%26UserMode%3D0`;
-                        courseID = `IHG7376524`;
-                    }
-
-                    /*  ---------------- ADJUSTMENT #2 ----------------
-                        • Replace link and course ID for IHG Way of Clean for Non-Housekeeping Colleagues to:
-                        IHG1227263
-                        https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&amp;url=app%2Fmanagement%2FL
-                        MS_ActDetails.aspx%3FActivityId%3D310962%26UserMode%3D0
-                    */
-                    if(rowValues[item.brand_id].toLowerCase() === "IHG Way of Clean for Non-Housekeeping Colleagues".toLowerCase()){
-                        hyperlinkURL = he.decode(`https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&amp;url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D310962%26UserMode%3D0`);
-                        courseID = `IHG1227263`;
-                    }
                     // Construct the object with the extracted data
                     const rowData = {
                         ...rowValues,
                         'Course ID Link': hyperlinkURL,
                         'Course ID': courseID,
                     };
-
+                    
                     // Restructure the data with 'holiday-inn-express' as the key
                     const restructuredData = {
                         'title': rowData[item.brand_id].replace(/\s+/g, ' ').trim(), // trim the strings properly removed extra spaces including in between texts
                         'timeframe': rowData['timeframe'].replace(/\s+/g, ' ').trim(),
                         'notes': rowData['notes'].replace(/\s+/g, ' ').trim(),
-                        'sorting': rowData[role_id],
+                        'timeframeSorting': rowData['timeframeSorting'],
+                        'isPriority': rowData['priority'],
                         'link': rowData['Course ID Link'],
                         'course-id': rowData['Course ID'],
                     };
-                    
-                    /*
-                        | ======================================================
-                        | CLIENT REQUEST FOR REMOVAL OF SOME TRAINING / COURSE
-                        | ======================================================
-                            Added a logic to remove training courses using their course title.
-                    */
-                    let to_be_removed = [
-                        'IHG Culture of Clean Implementation',
-                        'IHG Way of Clean Bedding and Duvet',
-                        'Duvet Training Materials and Care Guides',
-                        'IHG Way of Clean Daily Room Refresh'
-                    ];
-
+                    console.log(rowData[role_id]);
                     /* if value under specific ROLE column is not a number this will not be included on the json file, 
                     meaning training courses without sorting number in them will not be included on the json file */
-                    if(!isNaN(rowData[role_id]) && rowData[role_id] != ''){
-                        if(!to_be_removed.includes(restructuredData.title)){
-                            extractedData.push(restructuredData);
-                            
-                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData[item.brand_id].replace(/\s+/g, ' ').trim())){
-                                if(!trainingTitleList.includes(rowData[item.brand_id].replace(/\s+/g, ' ').trim())){
-                                    trainingTitleList.push(rowData[item.brand_id].replace(/\s+/g, ' ').trim());
-                                }
-                            }
-
-                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData['timeframe'].replace(/\s+/g, ' ').trim())){
-                                if(!timeframeList.includes(rowData['timeframe'].replace(/\s+/g, ' ').trim())){
-                                    timeframeList.push(rowData['timeframe'].replace(/\s+/g, ' ').trim());
-                                }
-                            }
-
-                            if(!['','remove', 'Remove', 'x', 'X'].includes(rowData['notes'].replace(/\s+/g, ' ').trim())){
-                                if(!notesList.includes(rowData['notes'].replace(/\s+/g, ' ').trim())){
-                                    notesList.push(rowData['notes'].replace(/\s+/g, ' ').trim());
-                                }
-                            }
-                        }
+                    if(rowData[role_id].toLowerCase() === 'x' && rowData[role_id] !== ''){
+                        extractedData.push(restructuredData);
                     }
                 }
-
-                /*  ---------------- ADJUSTMENT #3 ----------------
-                    • Add the following:
-                    IHG Way of Clean Resource Library for ALL roles:
-                    https://ihg.bravais.com/s/hwo8uaeFvG8WYA8aQ0pu
-                    button should say “Access”
-                    Notes should say:
-                    Explore additional resources to integrate IHG Way of Clean into your daily routine.
-                */
-
-                extractedData.push({
-                    'title': 'IHG Way of Clean Resource Library',
-                    'timeframe': '',
-                    'notes': 'Explore additional resources to integrate IHG Way of Clean into your daily routine.',
-                    'sorting': 100,
-                    'link': 'https://ihg.bravais.com/s/hwo8uaeFvG8WYA8aQ0pu',
-                    'course-id': 'Access',
-                })
 
                 let brand_parsed = {
                     ...brand,
