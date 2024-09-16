@@ -490,7 +490,6 @@ function generateJson(data){
                         'link': rowData['Course ID Link'],
                         'course-id': rowData['Course ID'],
                     };
-                    console.log(rowData[role_id]);
                     /* if value under specific ROLE column is not a number this will not be included on the json file, 
                     meaning training courses without sorting number in them will not be included on the json file */
                     if(rowData[role_id].toLowerCase() === 'x' && rowData[role_id] !== ''){
