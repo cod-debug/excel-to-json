@@ -110,7 +110,7 @@ const brand_list = [
         brand_id: 'voco-hotels',
         brand_name: 'Voco Hotels',
         sheet_index: 5,
-        row_index: 2,
+        row_index: 1,
         role_headers: {
             'general-manager': '',
             'front-office-manager': '',
@@ -156,7 +156,7 @@ const brand_list = [
         brand_id: 'even-hotels',
         brand_name: 'Even Hotels',
         sheet_index: 7,
-        row_index: 2,
+        row_index: 1,
         role_headers: {
             'general-manager': '',
             'front-office-manager': '',
@@ -222,7 +222,7 @@ const brand_list = [
         brand_id: 'avid-hotels',
         brand_name: 'Avid Hotels',
         sheet_index: 10,
-        row_index: 2,
+        row_index: 1,
         role_headers: {
             'general-manager': null,
             'front-office-manager': null,
@@ -243,7 +243,7 @@ const brand_list = [
         brand_id: 'garner',
         brand_name: 'Garner',
         sheet_index: 11,
-        row_index: 2,
+        row_index: 1,
         role_headers: {
             'general-manager': null,
             'front-office-manager': null,
@@ -329,7 +329,7 @@ const brand_list = [
         brand_id: 'special-project',
         brand_name: 'IHG  Hotel',
         sheet_index: 15,
-        row_index: 2,
+        row_index: 1,
         role_headers: {
             'general-manager': '',
             'front-office-manager': '',
