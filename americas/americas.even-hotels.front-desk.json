@@ -5,6 +5,15 @@
   },
   "trainings": [
     {
+      "title": "Review: Opera Property Management System Training Guide",
+      "timeframe": "within 30 days",
+      "notes": "",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D3207%26UserMode%3D0",
+      "course-id": "IHG0016783"
+    },
+    {
       "title": "Welcome to IHG",
       "timeframe": "within 30 days",
       "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",

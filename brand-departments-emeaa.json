@@ -1,5 +1,52 @@
 {
   "emeaa": {
+    "garner": {
+      "name": "Garner",
+      "pictures": {
+        "logo": "./img/icons/garner.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "sales-team-leader": {
+          "name": "Sales Team Leader"
+        },
+        "revenue-team-leader": {
+          "name": "Revenue Team Leader"
+        },
+        "front-office-team-leader": {
+          "name": "Front Office Team Leader"
+        },
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
+        },
+        "food-and-beverage-team-leader": {
+          "name": "Food And Beverage Team Leader"
+        },
+        "engineering-team-leader": {
+          "name": "Engineering Team Leader"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "food-and-bevarage": {
+          "name": "Food And Bevarage"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
     "holiday-inn-express": {
       "name": "Holiday Inn Express",
       "pictures": {
@@ -18,8 +65,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"
@@ -65,8 +112,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"
@@ -112,8 +159,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"
@@ -159,8 +206,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"
@@ -189,7 +236,7 @@
       }
     },
     "crowne-plaza": {
-      "name": "Crowne Plaza",
+      "name": "Crown Plaza",
       "pictures": {
         "logo": "./img/icons/crowne-plaza.png"
       },
@@ -206,8 +253,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"
@@ -253,8 +300,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"
@@ -283,7 +330,7 @@
       }
     },
     "vignette": {
-      "name": "Vignette",
+      "name": "Vignette Collection",
       "pictures": {
         "logo": "./img/icons/vignette.png"
       },
@@ -300,8 +347,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"
@@ -347,8 +394,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"
@@ -394,8 +441,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"
@@ -441,8 +488,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"
@@ -488,8 +535,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"
@@ -518,7 +565,7 @@
       }
     },
     "special-project": {
-      "name": "IHG  Hotel",
+      "name": "IHG Hotel",
       "pictures": {
         "logo": "./img/icons/special-project.png"
       },
@@ -535,8 +582,8 @@
         "front-office-team-leader": {
           "name": "Front Office Team Leader"
         },
-        "house-keeping-team-leader": {
-          "name": "House Keeping Team Leader"
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
         },
         "food-and-beverage-team-leader": {
           "name": "Food And Beverage Team Leader"

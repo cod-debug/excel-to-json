@@ -1,0 +1,89 @@
+{
+  "garner": {
+    "name": "Garner",
+    "hero-image": "./images/"
+  },
+  "trainings": [
+    {
+      "title": "True Hospitality Service Skills",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 Hour 15 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10700%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dtrue%25252520hospitality%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051263"
+    },
+    {
+      "title": "IHG Managed Hotels - Responsible Business Catalogue",
+      "timeframe": "within 30 days",
+      "notes": "For IHG Managed Hotels only; follow guidance on brand-standard related trainings",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "../../../../../../../ResponsibleBusiness/Shared%20Documents/HOTEL_RB%20Training%20Catalogue_MH%20FL%20v2024_4.pdf?web=1",
+      "course-id": "Guide for Managed Hotel Colleagues"
+    },
+    {
+      "title": "Franchised Hotels - Responsible Business Catalogue",
+      "timeframe": "within 30 days",
+      "notes": "For Franchised Hotels only; follow guidance on brand-standard related trainings",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://me2.ihgmerlin.com/documents/344888240/673023797/HOTEL_RB+Training+Catalogue_Franchised+FL+v2024_4.pdf/248e52ca-f621-2a01-0d50-872508761e53?t=1727430934591",
+      "course-id": "Guide for Franchised Hotel Colleagues"
+    },
+    {
+      "title": "IHG Problem Handling",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D21837%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dproblem%25252520handling%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG056045"
+    },
+    {
+      "title": "The Value of Loyalty",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (20 Minutes).",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240856%26UserMode%3D0",
+      "course-id": "IHG5072070"
+    },
+    {
+      "title": "IHG One Rewards Program Overview",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (20 Minutes).",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240857%26UserMode%3D0",
+      "course-id": "IHG8755255"
+    },
+    {
+      "title": "Member Recognition",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (15 Minutes).",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240854%26UserMode%3D0",
+      "course-id": "IHG1984349"
+    },
+    {
+      "title": "Value of Enrollments",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (20 Minutes).",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://urldefense.com/v3/__https:/mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app*2Fmanagement*2FLMS_ActDetails.aspx*3FActivityId*3D240855*26UserMode*3D0__;JSUlJSUl!!EOxaMA!Qr9acoX2_EV1mT0wmAxiOdTUWOHvMXYUCiw2niLR1HXQbhVDbdsZpso8geQqe50t9pBdegO46Mz59j2MtJfVmA$",
+      "course-id": "IHG2428898"
+    },
+    {
+      "title": "IHG Way of Clean 5-S Cleaning Program",
+      "timeframe": "within 30 days",
+      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D280596%26UserMode%3D0",
+      "course-id": "IHG7376524"
+    }
+  ]
+}
