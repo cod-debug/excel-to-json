@@ -1,56 +1,9 @@
 {
   "emeaa": {
-    "garner": {
-      "name": "Garner",
+    "regent": {
+      "name": "Regent",
       "pictures": {
-        "logo": "./img/icons/garner.png"
-      },
-      "departments": {
-        "general-manager": {
-          "name": "General Manager"
-        },
-        "sales-team-leader": {
-          "name": "Sales Team Leader"
-        },
-        "revenue-team-leader": {
-          "name": "Revenue Team Leader"
-        },
-        "front-office-team-leader": {
-          "name": "Front Office Team Leader"
-        },
-        "housekeeping-team-leader": {
-          "name": "Housekeeping Team Leader"
-        },
-        "food-and-beverage-team-leader": {
-          "name": "Food And Beverage Team Leader"
-        },
-        "engineering-team-leader": {
-          "name": "Engineering Team Leader"
-        },
-        "front-desk": {
-          "name": "Front Desk"
-        },
-        "housekeeping": {
-          "name": "Housekeeping"
-        },
-        "food-and-bevarage": {
-          "name": "Food And Bevarage"
-        },
-        "engineering": {
-          "name": "Engineering"
-        },
-        "all-other-management-colleagues": {
-          "name": "All Other Management Colleagues"
-        },
-        "all-other-non-management-colleagues": {
-          "name": "All Other Non Management Colleagues"
-        }
-      }
-    },
-    "holiday-inn-express": {
-      "name": "Holiday Inn Express",
-      "pictures": {
-        "logo": "./img/icons/holiday-inn-express.png"
+        "logo": "./img/icons/regent.png"
       },
       "departments": {
         "general-manager": {
@@ -94,10 +47,10 @@
         }
       }
     },
-    "holiday-inn": {
-      "name": "Holiday Inn",
+    "intercontinental": {
+      "name": "Intercontinental",
       "pictures": {
-        "logo": "./img/icons/holiday-inn.png"
+        "logo": "./img/icons/intercontinental.png"
       },
       "departments": {
         "general-manager": {
@@ -141,10 +94,104 @@
         }
       }
     },
-    "staybridge-suites": {
-      "name": "Staybridge Suites",
+    "vignette": {
+      "name": "Vignette Collection",
       "pictures": {
-        "logo": "./img/icons/staybridge-suites.png"
+        "logo": "./img/icons/vignette.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "sales-team-leader": {
+          "name": "Sales Team Leader"
+        },
+        "revenue-team-leader": {
+          "name": "Revenue Team Leader"
+        },
+        "front-office-team-leader": {
+          "name": "Front Office Team Leader"
+        },
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
+        },
+        "food-and-beverage-team-leader": {
+          "name": "Food And Beverage Team Leader"
+        },
+        "engineering-team-leader": {
+          "name": "Engineering Team Leader"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "food-and-beverage": {
+          "name": "Food And Beverage"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "kimpton": {
+      "name": "Kimpton",
+      "pictures": {
+        "logo": "./img/icons/kimpton.png"
+      },
+      "departments": {
+        "general-manager": {
+          "name": "General Manager"
+        },
+        "sales-team-leader": {
+          "name": "Sales Team Leader"
+        },
+        "revenue-team-leader": {
+          "name": "Revenue Team Leader"
+        },
+        "front-office-team-leader": {
+          "name": "Front Office Team Leader"
+        },
+        "housekeeping-team-leader": {
+          "name": "Housekeeping Team Leader"
+        },
+        "food-and-beverage-team-leader": {
+          "name": "Food And Beverage Team Leader"
+        },
+        "engineering-team-leader": {
+          "name": "Engineering Team Leader"
+        },
+        "front-desk": {
+          "name": "Front Desk"
+        },
+        "housekeeping": {
+          "name": "Housekeeping"
+        },
+        "food-and-beverage": {
+          "name": "Food And Beverage"
+        },
+        "engineering": {
+          "name": "Engineering"
+        },
+        "all-other-management-colleagues": {
+          "name": "All Other Management Colleagues"
+        },
+        "all-other-non-management-colleagues": {
+          "name": "All Other Non Management Colleagues"
+        }
+      }
+    },
+    "hotel-indigo": {
+      "name": "Hotel Indigo",
+      "pictures": {
+        "logo": "./img/icons/hotel-indigo.png"
       },
       "departments": {
         "general-manager": {
@@ -282,10 +329,10 @@
         }
       }
     },
-    "hotel-indigo": {
-      "name": "Hotel Indigo",
+    "holiday-inn-express": {
+      "name": "Holiday Inn Express",
       "pictures": {
-        "logo": "./img/icons/hotel-indigo.png"
+        "logo": "./img/icons/holiday-inn-express.png"
       },
       "departments": {
         "general-manager": {
@@ -329,10 +376,10 @@
         }
       }
     },
-    "vignette": {
-      "name": "Vignette Collection",
+    "holiday-inn": {
+      "name": "Holiday Inn",
       "pictures": {
-        "logo": "./img/icons/vignette.png"
+        "logo": "./img/icons/holiday-inn.png"
       },
       "departments": {
         "general-manager": {
@@ -376,10 +423,10 @@
         }
       }
     },
-    "intercontinental": {
-      "name": "Intercontinental",
+    "garner": {
+      "name": "Garner",
       "pictures": {
-        "logo": "./img/icons/intercontinental.png"
+        "logo": "./img/icons/garner.png"
       },
       "departments": {
         "general-manager": {
@@ -409,8 +456,8 @@
         "housekeeping": {
           "name": "Housekeeping"
         },
-        "food-and-beverage": {
-          "name": "Food And Beverage"
+        "food-and-bevarage": {
+          "name": "Food And Bevarage"
         },
         "engineering": {
           "name": "Engineering"
@@ -423,57 +470,10 @@
         }
       }
     },
-    "regent": {
-      "name": "Regent",
+    "staybridge-suites": {
+      "name": "Staybridge Suites",
       "pictures": {
-        "logo": "./img/icons/regent.png"
-      },
-      "departments": {
-        "general-manager": {
-          "name": "General Manager"
-        },
-        "sales-team-leader": {
-          "name": "Sales Team Leader"
-        },
-        "revenue-team-leader": {
-          "name": "Revenue Team Leader"
-        },
-        "front-office-team-leader": {
-          "name": "Front Office Team Leader"
-        },
-        "housekeeping-team-leader": {
-          "name": "Housekeeping Team Leader"
-        },
-        "food-and-beverage-team-leader": {
-          "name": "Food And Beverage Team Leader"
-        },
-        "engineering-team-leader": {
-          "name": "Engineering Team Leader"
-        },
-        "front-desk": {
-          "name": "Front Desk"
-        },
-        "housekeeping": {
-          "name": "Housekeeping"
-        },
-        "food-and-beverage": {
-          "name": "Food And Beverage"
-        },
-        "engineering": {
-          "name": "Engineering"
-        },
-        "all-other-management-colleagues": {
-          "name": "All Other Management Colleagues"
-        },
-        "all-other-non-management-colleagues": {
-          "name": "All Other Non Management Colleagues"
-        }
-      }
-    },
-    "kimpton": {
-      "name": "Kimpton",
-      "pictures": {
-        "logo": "./img/icons/kimpton.png"
+        "logo": "./img/icons/staybridge-suites.png"
       },
       "departments": {
         "general-manager": {

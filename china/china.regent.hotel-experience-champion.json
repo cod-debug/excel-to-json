@@ -5,15 +5,6 @@
   },
   "trainings": [
     {
-      "title": "Leading the Brand Experience for New Hotels Part 1",
-      "timeframe": "New Hotels - Prior to opening",
-      "notes": "Training Consultant will send invitation",
-      "timeframeSorting": 9,
-      "isPriority": "",
-      "link": "",
-      "course-id": "Invitation"
-    },
-    {
       "title": "Welcome to IHG",
       "timeframe": "within 30 days",
       "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
@@ -32,22 +23,13 @@
       "course-id": "IHG051263-ZH"
     },
     {
-      "title": "Regent Brand Orientation",
+      "title": "InterContinental Hotels and Resorts Brand Orientation",
       "timeframe": "within 30 days",
       "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
       "timeframeSorting": 3,
       "isPriority": "",
-      "link": "",
-      "course-id": "Hotel-led in-person training"
-    },
-    {
-      "title": "Regent Brand Service",
-      "timeframe": "within 30 days",
-      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
-      "timeframeSorting": 3,
-      "isPriority": "",
-      "link": "",
-      "course-id": "Hotel-led in-person training"
+      "link": "https://ihg.sumtotal.ccedge.cn/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fihg.sumtotal.ccedge.cn%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D15719%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fihg.sumtotal.ccedge.cn%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253D%25252AIHG051925-ZH%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051925-ZH"
     },
     {
       "title": "IHG Problem Handling",
@@ -104,13 +86,13 @@
       "course-id": "IHG6112495-ZH"
     },
     {
-      "title": "Leading the Brand Experience for New Hotels Part 2",
-      "timeframe": "New Hotels - Prior to opening",
-      "notes": "Training Consultant will send invitation",
-      "timeframeSorting": 9,
+      "title": "InterContinental Ambassador Training",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
       "isPriority": "",
-      "link": "",
-      "course-id": "Invitation"
+      "link": "https://ihg.sumtotal.ccedge.cn/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fihg.sumtotal.ccedge.cn%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D272384%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fihg.sumtotal.ccedge.cn%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253D%25252AIHG8902188-ZH%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG8902188-ZH"
     },
     {
       "title": "Leading and Sustaining your Service Culture",
@@ -138,6 +120,60 @@
       "isPriority": "",
       "link": "",
       "course-id": "Brand Standard"
+    },
+    {
+      "title": "Code of Conduct",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D16277%26UserMode%3D0",
+      "course-id": "IHG0066245R-ZH"
+    },
+    {
+      "title": "Handling Information Responsibly",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D16285%26UserMode%3D0",
+      "course-id": "IHG0066263R-ZH"
+    },
+    {
+      "title": "IHG Managed Hotels - Anti-Harrassment in the Workplace",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D53220%26UserMode%3D0",
+      "course-id": "IHG1817814-ZH"
+    },
+    {
+      "title": "Franchised Hotels - Anti-Harrassment in the Workplace",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D25436%26UserMode%3D0",
+      "course-id": "IHG7132706-ZH"
+    },
+    {
+      "title": "IHG General Fire Training (Corporate, Owned & Managed Hotels)",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15095%26UserMode%3D0",
+      "course-id": "IHG0061583-ZH"
+    },
+    {
+      "title": "Luxury Fundamentals",
+      "timeframe": "within 30 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D14987%26UserMode%3D0",
+      "course-id": "IHG0063363-ZH"
     }
   ]
 }

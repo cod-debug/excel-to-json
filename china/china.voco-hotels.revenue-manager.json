@@ -5,15 +5,6 @@
   },
   "trainings": [
     {
-      "title": "Leading the Brand Experience for New Hotels Part 1",
-      "timeframe": "New Hotels - Prior to opening",
-      "notes": "Training Consultant will send invitation",
-      "timeframeSorting": 9,
-      "isPriority": "",
-      "link": "",
-      "course-id": "Invitation"
-    },
-    {
       "title": "Welcome to IHG",
       "timeframe": "within 30 days",
       "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
@@ -30,6 +21,33 @@
       "isPriority": "",
       "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15730%26UserMode%3D0",
       "course-id": "IHG051263-ZH"
+    },
+    {
+      "title": "voco Brand Orientation",
+      "timeframe": "within 30 days",
+      "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D3735%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253D%25252AIHG0065384%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0065384"
+    },
+    {
+      "title": "voco Brand Experience Training",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D6426%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253D%25252AIHG0066043%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG0066043"
+    },
+    {
+      "title": "Bring voco to Life' Toolkit",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "",
+      "course-id": "Hotel-led in-person training"
     },
     {
       "title": "IHG Problem Handling",
@@ -54,7 +72,7 @@
       "timeframe": "within 30 days",
       "notes": "Self-paced Online Learning (20 Minutes).",
       "timeframeSorting": 3,
-      "isPriority": "",
+      "isPriority": "Y",
       "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D300165%26UserMode%3D0",
       "course-id": "IHG5072070-ZH"
     },
@@ -86,13 +104,13 @@
       "course-id": "IHG0056403-ZH"
     },
     {
-      "title": "Leading the Brand Experience for New Hotels Part 2",
-      "timeframe": "New Hotels - Prior to opening",
-      "notes": "Training Consultant will send invitation",
-      "timeframeSorting": 9,
+      "title": "IHG Way of Clean",
+      "timeframe": "within 30 days",
+      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "timeframeSorting": 3,
       "isPriority": "",
-      "link": "",
-      "course-id": "Invitation"
+      "link": "https://ihg.bravais.com/s/B711VEB7618vQSmUi3On",
+      "course-id": "Link to Course List"
     },
     {
       "title": "Revenue Management Learning Series - Building a Foundation",
@@ -120,6 +138,195 @@
       "isPriority": "",
       "link": "",
       "course-id": "Brand Standard"
+    },
+    {
+      "title": "Code of Conduct",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D16277%26UserMode%3D0",
+      "course-id": "IHG0066245R-ZH"
+    },
+    {
+      "title": "Handling Information Responsibly",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D16285%26UserMode%3D0",
+      "course-id": "IHG0066263R-ZH"
+    },
+    {
+      "title": "IHG Managed Hotels - Anti-Harrassment in the Workplace",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D53220%26UserMode%3D0",
+      "course-id": "IHG1817814-ZH"
+    },
+    {
+      "title": "Franchised Hotels - Anti-Harrassment in the Workplace",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D25436%26UserMode%3D0",
+      "course-id": "IHG7132706-ZH"
+    },
+    {
+      "title": "The comprehensive guide to LoyaltyConnect",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D6433%26UserMode%3D0",
+      "course-id": "IHG0060223-ZH"
+    },
+    {
+      "title": "Driving Revenue through Distribution Channels",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15687%26UserMode%3D0",
+      "course-id": "IHG054024-ZH"
+    },
+    {
+      "title": "IHG General Fire Training (Corporate, Owned & Managed Hotels)",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15095%26UserMode%3D0",
+      "course-id": "IHG0061583-ZH"
+    },
+    {
+      "title": "IHG® Business Rewards",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D6202%26UserMode%3D0",
+      "course-id": "IHG0052543-ZH"
+    },
+    {
+      "title": "Getting to Know IHG® Concerto",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D52090%26UserMode%3D0",
+      "course-id": "IHG0049491"
+    },
+    {
+      "title": "GRS Fundamental: Reservations, Rate & Inventory Management",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15108%26UserMode%3D0",
+      "course-id": "IHG0049459-ZH"
+    },
+    {
+      "title": "IHG Concerto - Getting to Know Inventory Balance",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D6262%26UserMode%3D0",
+      "course-id": "IHG0053503-ZH"
+    },
+    {
+      "title": "IHG Concerto - Rate & Inventory",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D5307%26UserMode%3D0",
+      "course-id": "IHG0052224"
+    },
+    {
+      "title": "IHG Concerto Homepage Overview",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D68%26UserMode%3D0",
+      "course-id": "IHG0052563"
+    },
+    {
+      "title": "Revenue Management BASIC Training",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D55255%26UserMode%3D0",
+      "course-id": "IHG052632-ZH"
+    },
+    {
+      "title": "IHG Revenue Leader Onboarding Learning Plan",
+      "timeframe": "within 90 days",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D683460%26UserMode%3D0",
+      "course-id": "IHG9924542-ZH"
+    },
+    {
+      "title": "IHG Concerto - Yielding",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D5308%26UserMode%3D0",
+      "course-id": "IHG0052483"
+    },
+    {
+      "title": "RMS Fundamentals: Yielding & Price Optimization",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15009%26UserMode%3D0",
+      "course-id": "IHG0049460-ZH"
+    },
+    {
+      "title": "Revenue Room Meeting",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D22649%26UserMode%3D0",
+      "course-id": "IHG0051955-ZH"
+    },
+    {
+      "title": "Revenue Management BASIC Training",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D55255%26UserMode%3D0",
+      "course-id": "IHG052632-ZH"
+    },
+    {
+      "title": "RMAC elearning – Revenue Management Advanced Certification - Part One",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15096%26UserMode%3D0",
+      "course-id": "IHG0043569-ZH"
+    },
+    {
+      "title": "Pricing Essentials",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D5352%26UserMode%3D0",
+      "course-id": "IHG0062223"
     }
   ]
 }

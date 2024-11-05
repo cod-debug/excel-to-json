@@ -7,7 +7,7 @@
     {
       "title": "True Hospitality Service Skills",
       "timeframe": "within 30 days",
-      "notes": "Self-paced Online Learning (1 Hour 15 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "notes": "Self-paced Online Learning (1 Hour 15 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
       "timeframeSorting": 3,
       "isPriority": "",
       "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D10700%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dtrue%25252520hospitality%2526startRow%253D0%26SearchCallerID%3D2",
@@ -16,16 +16,16 @@
     {
       "title": "Crowne Plaza Brand Orientation",
       "timeframe": "within 30 days",
-      "notes": "Self-paced Online Learning (1 Hour 30 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "notes": "Self-paced Online Learning (1 Hour 30 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
       "timeframeSorting": 3,
-      "isPriority": "",
+      "isPriority": "Y",
       "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D10699%26UserMode%3D0",
       "course-id": "IHG051234"
     },
     {
       "title": "Europe Hotels - Crowne Plaza Dare to Connect Brand Experience Training",
       "timeframe": "within 30 days",
-      "notes": "For hotels in Europe only; Self-paced Online Learning (2 Hours 30 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "notes": "For hotels in Europe only; Self-paced Online Learning (2 Hours 30 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
       "timeframeSorting": 3,
       "isPriority": "",
       "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D10772%26UserMode%3D0",
@@ -34,7 +34,7 @@
     {
       "title": "Middle East, Africa and Asia Hotels - Crowne Plaza Dare to Connect Brand Experience Training",
       "timeframe": "within 30 days",
-      "notes": "For hotels outside of Europe only; Self-paced Online Learning (2 Hours 30 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "notes": "For hotels outside of Europe only; Self-paced Online Learning (2 Hours 30 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
       "timeframeSorting": 3,
       "isPriority": "",
       "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D6627%26UserMode%3D0",
@@ -61,23 +61,23 @@
     {
       "title": "IHG Problem Handling",
       "timeframe": "within 30 days",
-      "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
       "timeframeSorting": 3,
-      "isPriority": "",
+      "isPriority": "Y",
       "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D21837%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253Dproblem%25252520handling%2526startRow%253D0%26SearchCallerID%3D2",
       "course-id": "IHG056045"
     },
     {
-      "title": "The Value of Loyalty",
+      "title": "IHG One Rewards - The Value of Loyalty",
       "timeframe": "within 30 days",
       "notes": "Self-paced Online Learning (20 Minutes).",
       "timeframeSorting": 3,
-      "isPriority": "",
+      "isPriority": "Y",
       "link": "https://mylearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=core%2Factivitydetails%2FViewActivityDetails%3FActivityId%3D240856%26UserMode%3D0",
       "course-id": "IHG5072070"
     },
     {
-      "title": "IHG One Rewards Program Overview",
+      "title": "IHG One Rewards - Program Overview",
       "timeframe": "within 30 days",
       "notes": "Self-paced Online Learning (20 Minutes).",
       "timeframeSorting": 3,
@@ -86,7 +86,7 @@
       "course-id": "IHG8755255"
     },
     {
-      "title": "Member Recognition",
+      "title": "IHG One Rewards - Member Recognition",
       "timeframe": "within 30 days",
       "notes": "Self-paced Online Learning (15 Minutes).",
       "timeframeSorting": 3,
@@ -95,7 +95,7 @@
       "course-id": "IHG1984349"
     },
     {
-      "title": "The Value of Enrollments",
+      "title": "IHG One Rewards -The Value of Enrollments",
       "timeframe": "within 30 days",
       "notes": "Self-paced Online Learning (20 Minutes).",
       "timeframeSorting": 3,
@@ -106,9 +106,9 @@
     {
       "title": "IHG Way of Clean 5-S Cleaning Program for Non-Housekeeping colleagues",
       "timeframe": "within 30 days",
-      "notes": "Self-paced Online Learning (20 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "notes": "Self-paced Online Learning (20 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in the IHG University application.",
       "timeframeSorting": 3,
-      "isPriority": "",
+      "isPriority": "Y",
       "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D310962%26UserMode%3D0",
       "course-id": "IHG1227263"
     }
