@@ -23,13 +23,22 @@
       "course-id": "IHG051263-ZH"
     },
     {
-      "title": "InterContinental Hotels and Resorts Brand Orientation",
+      "title": "Regent Brand Orientation",
       "timeframe": "within 30 days",
       "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
       "timeframeSorting": 3,
       "isPriority": "",
-      "link": "https://ihg.sumtotal.ccedge.cn/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fihg.sumtotal.ccedge.cn%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D15719%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fihg.sumtotal.ccedge.cn%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253D%25252AIHG051925-ZH%2526startRow%253D0%26SearchCallerID%3D2",
-      "course-id": "IHG051925-ZH"
+      "link": "",
+      "course-id": "Hotel-led in-person training"
+    },
+    {
+      "title": "Regent Brand Service",
+      "timeframe": "within 30 days",
+      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "timeframeSorting": 3,
+      "isPriority": "",
+      "link": "",
+      "course-id": "Hotel-led in-person training"
     },
     {
       "title": "IHG Problem Handling",

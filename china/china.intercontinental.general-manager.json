@@ -23,13 +23,13 @@
       "course-id": "IHG051263-ZH"
     },
     {
-      "title": "Vignette Collection Brand Orientation",
+      "title": "InterContinental Hotels and Resorts Brand Orientation",
       "timeframe": "within 30 days",
       "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
       "timeframeSorting": 3,
       "isPriority": "",
-      "link": "",
-      "course-id": "Hotel-led in-person training"
+      "link": "https://ihg.sumtotal.ccedge.cn/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fihg.sumtotal.ccedge.cn%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D15719%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fihg.sumtotal.ccedge.cn%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253D%25252AIHG051925-ZH%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG051925-ZH"
     },
     {
       "title": "IHG Problem Handling",
@@ -54,7 +54,7 @@
       "timeframe": "within 30 days",
       "notes": "Self-paced Online Learning (20 Minutes).",
       "timeframeSorting": 3,
-      "isPriority": "Y",
+      "isPriority": "",
       "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D300165%26UserMode%3D0",
       "course-id": "IHG5072070-ZH"
     },
@@ -84,6 +84,15 @@
       "isPriority": "",
       "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D344547%26UserMode%3D0",
       "course-id": "IHG6112495-ZH"
+    },
+    {
+      "title": "InterContinental Ambassador Training",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
+      "isPriority": "",
+      "link": "https://ihg.sumtotal.ccedge.cn/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fihg.sumtotal.ccedge.cn%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D272384%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fihg.sumtotal.ccedge.cn%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253D%25252AIHG8902188-ZH%2526startRow%253D0%26SearchCallerID%3D2",
+      "course-id": "IHG8902188-ZH"
     },
     {
       "title": "Introduction to Information Security",

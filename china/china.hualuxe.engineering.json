@@ -23,22 +23,22 @@
       "course-id": "IHG051263-ZH"
     },
     {
-      "title": "Regent Brand Orientation",
+      "title": "HUALUXE Brand Service Training",
       "timeframe": "within 30 days",
-      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "notes": "Self-paced Online Learning (1 Hour). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
       "timeframeSorting": 3,
       "isPriority": "",
       "link": "",
-      "course-id": "Hotel-led in-person training"
+      "course-id": "IHG6307266-ZH"
     },
     {
-      "title": "Regent Brand Service",
-      "timeframe": "within 30 days",
-      "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
-      "timeframeSorting": 3,
+      "title": "HUALUXE Brand Operations Training",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
       "isPriority": "",
       "link": "",
-      "course-id": "Hotel-led in-person training"
+      "course-id": "IHG6307267-ZH"
     },
     {
       "title": "IHG Problem Handling",
@@ -63,7 +63,7 @@
       "timeframe": "within 30 days",
       "notes": "Self-paced Online Learning (20 Minutes).",
       "timeframeSorting": 3,
-      "isPriority": "",
+      "isPriority": "Y",
       "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D300165%26UserMode%3D0",
       "course-id": "IHG5072070-ZH"
     },
@@ -165,15 +165,6 @@
       "isPriority": "",
       "link": "",
       "course-id": "Search in the IHG Pedia"
-    },
-    {
-      "title": "Luxury Fundamentals",
-      "timeframe": "within 30 days",
-      "notes": "",
-      "timeframeSorting": "",
-      "isPriority": "",
-      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D14987%26UserMode%3D0",
-      "course-id": "IHG0063363-ZH"
     }
   ]
 }

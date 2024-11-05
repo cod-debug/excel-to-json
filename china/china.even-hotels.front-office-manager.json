@@ -23,31 +23,22 @@
       "course-id": "IHG051263-ZH"
     },
     {
-      "title": "Crowne Plaza Brand Orientation",
+      "title": "EVEN Hotels Brand Service Training",
       "timeframe": "within 30 days",
-      "notes": "Self-paced Online Learning (1 Hour 30 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
+      "notes": "Self-paced Online Learning (30 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
       "timeframeSorting": 3,
       "isPriority": "",
-      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15682%26UserMode%3D0",
-      "course-id": "IHG051234-ZH"
+      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D287828%26UserMode%3D0",
+      "course-id": "IHG7942569-ZH"
     },
     {
-      "title": "Crowne Plaza Dare to Connect Brand Experience Training",
-      "timeframe": "within 30 days",
-      "notes": "Self-paced Online Learning (2 Hours 30 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
-      "timeframeSorting": 3,
+      "title": "EVEN Wellness Your Way Observable Action Toolkit",
+      "timeframe": "",
+      "notes": "",
+      "timeframeSorting": "",
       "isPriority": "",
-      "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D15684%26UserMode%3D0",
-      "course-id": "IHG062884-ZH"
-    },
-    {
-      "title": "Crowne Plaza Dare to Connect Brand Operation Training",
-      "timeframe": "within 30 days",
-      "notes": "Self-paced Online Learning (2 Hours 30 Minutes). Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
-      "timeframeSorting": 3,
-      "isPriority": "",
-      "link": "https://mylearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2Fmylearning.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D15685%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252Fmylearning.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253D%25252AIHG062783-ZH%2526startRow%253D0%26SearchCallerID%3D2",
-      "course-id": "IHG062783-ZH"
+      "link": "",
+      "course-id": "Hotel-led in-person training"
     },
     {
       "title": "IHG Problem Handling",
@@ -320,7 +311,7 @@
       "course-id": "IHG0051763-ZH"
     },
     {
-      "title": "Rooms Leader Onboarding Learning Plan - Full Service",
+      "title": "Operations Leader Onboarding Learning Plan - Limited Service",
       "timeframe": "within 90 days",
       "notes": "",
       "timeframeSorting": "",

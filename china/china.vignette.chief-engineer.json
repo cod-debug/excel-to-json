@@ -23,28 +23,10 @@
       "course-id": "IHG051263-ZH"
     },
     {
-      "title": "Kimpton Leader Culture Orientation",
+      "title": "Vignette Collection Brand Orientation",
       "timeframe": "within 30 days",
       "notes": "Hotel-led in-person training (On-Job-Training, OJT) is permitted & completions must be tracked in myLearning.",
       "timeframeSorting": 3,
-      "isPriority": "",
-      "link": "",
-      "course-id": "Hotel-led in-person training"
-    },
-    {
-      "title": "Kimpton Service Skills Training",
-      "timeframe": "within 30 days",
-      "notes": "",
-      "timeframeSorting": "",
-      "isPriority": "",
-      "link": "",
-      "course-id": "Hotel-led in-person training"
-    },
-    {
-      "title": "Owning the Guest Journey",
-      "timeframe": "within 30 days",
-      "notes": "",
-      "timeframeSorting": "",
       "isPriority": "",
       "link": "",
       "course-id": "Hotel-led in-person training"
@@ -321,7 +303,7 @@
     },
     {
       "title": "IHG Engineering Leader Onboarding Learning Plan",
-      "timeframe": "",
+      "timeframe": "within 90 days",
       "notes": "",
       "timeframeSorting": "",
       "isPriority": "",
