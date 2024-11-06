@@ -497,9 +497,9 @@ function generateJson(data){
                     // Restructure the data with 'holiday-inn-express' as the key
                     const restructuredData = {
                         'title': rowData[item.brand_id].replace(/\s+/g, ' ').trim(), // trim the strings properly removed extra spaces including in between texts
-                        'timeframe': rowData['timeframe'].replace(/\s+/g, ' ').trim(),
+                        'timeframe': rowData['timeframe'].replace(/\s+/g, ' ').trim() || 'Suggested Learning',
                         'notes': rowData['notes'].replace(/\s+/g, ' ').trim(),
-                        'timeframeSorting': rowData['timeframeSorting'],
+                        'timeframeSorting': rowData['timeframeSorting'] || 10,
                         'isPriority': rowData['priority'],
                         'link': rowData['Course ID Link'],
                         'course-id': rowData['Course ID'],
