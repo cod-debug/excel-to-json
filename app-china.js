@@ -508,6 +508,9 @@ function generateJson(data){
                     meaning training courses without sorting number in them will not be included on the json file */
                     if(rowData[role_id].toLowerCase() === 'x' && rowData[role_id] !== ''){
                         extractedData.push(restructuredData);
+                        trainingTitleList.push(restructuredData.title);
+                        timeframeList.push(restructuredData.timeframe);
+                        notesList.push(restructuredData.notes);
                     }
                 }
 
