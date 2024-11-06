@@ -169,7 +169,7 @@ const brand_list = [
         region: 'emeaa',
         brand_id: 'holiday-inn-express',
         brand_name: 'Holiday Inn Express',
-        sheet_index: 7,
+        sheet_index: 8,
         row_index: 1,
         role_headers: {
             'general-manager': '',
@@ -191,7 +191,7 @@ const brand_list = [
         region: 'emeaa',
         brand_id: 'holiday-inn',
         brand_name: 'Holiday Inn',
-        sheet_index: 8,
+        sheet_index: 9,
         row_index: 1,
         role_headers: {
             'general-manager': '',
