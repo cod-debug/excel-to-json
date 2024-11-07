@@ -363,7 +363,12 @@ function generateJson(data){
         const sheetIndex = item.sheet_index;
         const sheetName = workbook.SheetNames[sheetIndex];
         const worksheet = workbook.Sheets[sheetName];
-    
+        
+        if(sheetName !== item.brand_name){
+            console.log(RED + `Brand Name: ${item.brand_name}`);
+            console.log(RED + `Sheet Name: ${sheetName}`);
+            console.log(RED + 'Warning: brand name and sheet name does not match');
+        }
     
         let brand = {};
         
