@@ -420,6 +420,8 @@ function capitalizeEachWord(sentence) {
 generateJson(brand_list);
 
 function generateJson(data){
+    const RED = "\u001b[31m";
+    const GREEN = "\u001b[32m";
     
     var count = 0;
     data.map((item, key) => {
@@ -541,7 +543,7 @@ function generateJson(data){
                 // Now you can write the data to the file
                 fs.writeFileSync(jsonFilePath, JSON.stringify(brand_parsed, null, 2));
 
-                console.log(`Data has been written to ${jsonFilePath}`);
+                console.log(`${GREEN} Data has been written to ${jsonFilePath}`);
                 count++;
             }
         }

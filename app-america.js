@@ -528,7 +528,7 @@ function generateJson(data){
                 // Now you can write the data to the file
                 fs.writeFileSync(jsonFilePath, JSON.stringify(brand_parsed, null, 2));
 
-                console.log(GREEN + `Data has been written to ${jsonFilePath}`);
+                console.log(`${GREEN} Data has been written to ${jsonFilePath}`);
                 count++;
             }
         }
