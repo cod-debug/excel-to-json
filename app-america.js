@@ -6,7 +6,7 @@ const he = require('he');
 
 
 // Replace 'your-file.xlsx' with the name of your Excel file
-const excelFilePath = 'New Colleague Data File_AMER_01November.xlsx';
+const excelFilePath = 'New Colleague Data File_AMER_07November.xlsx';
 
 // Load the Excel file
 const workbook = XLSX.readFile(excelFilePath);
@@ -273,7 +273,7 @@ const brand_list = [
             'executive-housekeeper': null,
             'chief-engineer': null,
             'hotel-experience-champion': null,
-            'fand-b-director': null,
+            'food-and-beverage-director': null,
             'front-desk': null,
             'housekeeping': null,
             'engineering': null,
