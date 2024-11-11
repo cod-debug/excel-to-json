@@ -4,7 +4,7 @@ const path = require('path');
 const he = require('he');
 
 // Replace 'your-file.xlsx' with the name of your Excel file
-const excelFilePath = 'New Colleague Data File_EMEAA_01November.xlsx';
+const excelFilePath = 'New Colleague Data File_EMEAA_07November.xlsx';
 
 // Load the Excel file
 const workbook = XLSX.readFile(excelFilePath);
@@ -146,7 +146,7 @@ const brand_list = [
     {   
         region: 'emeaa',
         brand_id: 'crowne-plaza',
-        brand_name: 'Crown Plaza',
+        brand_name: 'Crowne Plaza',
         sheet_index: 7,
         row_index: 1,
         role_headers: {
